@@ -223,48 +223,48 @@
 
 ### ⚔️ Fighter
 
-- [**พาลาดิน (Human)**](combat/fighter/human/combat_paladin_human.md) — DPS: 1,237 | Matchup: 30.3
-- [**แพนเซอร์ (Human)**](combat/fighter/human/combat_panzer_human.md) — DPS: 3,617 | Matchup: 54.8
-- [**ครูเสเดอร์ (Human)**](combat/fighter/human/combat_crusader_human.md) — DPS: 7,029 | Matchup: 62.5
-- [**เดสทรอยเยอร์ (Human)**](combat/fighter/human/combat_destroyer_human.md) — DPS: 4,147 | Matchup: 57.1
-- [**ซอร์ดมาสเตอร์ (Human)**](combat/fighter/human/combat_sword_master_human.md) — DPS: 4,152 | Matchup: 51.7
-- [**พาลาดิน (Elf)**](combat/fighter/elf/combat_paladin_elf.md) — DPS: 1,217 | Matchup: 30.1
-- [**แพนเซอร์ (Elf)**](combat/fighter/elf/combat_panzer_elf.md) — DPS: 3,557 | Matchup: 54.4
-- [**ครูเสเดอร์ (Elf)**](combat/fighter/elf/combat_crusader_elf.md) — DPS: 6,911 | Matchup: 62.2
-- [**ซอร์ดมาสเตอร์ (Elf)**](combat/fighter/elf/combat_sword_master_elf.md) — DPS: 4,079 | Matchup: 56.7
-- [**แม็กเนอร์ส (Elf)**](combat/fighter/elf/combat_magners_elf.md) — DPS: 4,080 | Matchup: 51.3
-- [**เดสทรอยเยอร์ (Elf)**](combat/fighter/elf/combat_destroyer_elf.md) — DPS: 4,080 | Matchup: 51.2
+- [**พาลาดิน (Human)**](fighter/human/class5_paladin.md) — DPS: 1,237 | Matchup: 30.3
+- [**แพนเซอร์ (Human)**](fighter/human/class5_panzer.md) — DPS: 3,617 | Matchup: 54.8
+- [**ครูเสเดอร์ (Human)**](fighter/human/class5_crusader.md) — DPS: 7,029 | Matchup: 62.5
+- [**เดสทรอยเยอร์ (Human)**](fighter/human/class5_destroyer.md) — DPS: 4,147 | Matchup: 57.1
+- [**ซอร์ดมาสเตอร์ (Human)**](fighter/human/class5_sword_master.md) — DPS: 4,152 | Matchup: 51.7
+- [**พาลาดิน (Elf)**](fighter/elf/class5_paladin.md) — DPS: 1,217 | Matchup: 30.1
+- [**แพนเซอร์ (Elf)**](fighter/elf/class5_panzer.md) — DPS: 3,557 | Matchup: 54.4
+- [**ครูเสเดอร์ (Elf)**](fighter/elf/class5_crusader.md) — DPS: 6,911 | Matchup: 62.2
+- [**ซอร์ดมาสเตอร์ (Elf)**](fighter/elf/class5_sword_master.md) — DPS: 4,079 | Matchup: 56.7
+- [**แม็กเนอร์ส (Elf)**](fighter/elf/class5_magners.md) — DPS: 4,080 | Matchup: 51.3
+- [**เดสทรอยเยอร์ (Elf)**](fighter/elf/class5_destroyer.md) — DPS: 4,080 | Matchup: 51.2
 
 ### 🗡️ Rogue
 
-- [**สไนเปอร์ (Human)**](combat/rogue/human/combat_sniper_human.md) — DPS: 2,457 | Matchup: 44.1
-- [**เอ็นแทรปเปอร์ (Human)**](combat/rogue/human/combat_entrapper_human.md) — DPS: 1,763 | Matchup: 37.2
-- [**เบลดเทคเกอร์ (Human)**](combat/rogue/human/combat_blade_taker_human.md) — DPS: 1,410 | Matchup: 33.2
-- [**เทมเปอร์มาสเตอร์ (Human)**](combat/rogue/human/combat_temper_master_human.md) — DPS: 7,155 | Matchup: 63.9
-- [**อาร์คเรนเจอร์ (Human)**](combat/rogue/human/combat_arc_ranger_human.md) — DPS: 7,155 | Matchup: 58.0
-- [**สไนเปอร์ (Elf)**](combat/rogue/elf/combat_sniper_elf.md) — DPS: 2,408 | Matchup: 43.7
-- [**เอ็นแทรปเปอร์ (Elf)**](combat/rogue/elf/combat_entrapper_elf.md) — DPS: 1,727 | Matchup: 36.8
-- [**เบลดเทคเกอร์ (Elf)**](combat/rogue/elf/combat_blade_taker_elf.md) — DPS: 1,381 | Matchup: 32.9
-- [**เทมเปอร์มาสเตอร์ (Elf)**](combat/rogue/elf/combat_temper_master_elf.md) — DPS: 7,011 | Matchup: 63.5
-- [**อาร์คเรนเจอร์ (Elf)**](combat/rogue/elf/combat_arc_ranger_elf.md) — DPS: 7,011 | Matchup: 57.6
+- [**สไนเปอร์ (Human)**](rogue/human/class5_sniper.md) — DPS: 2,457 | Matchup: 44.1
+- [**เอ็นแทรปเปอร์ (Human)**](rogue/human/class5_entrapper.md) — DPS: 1,763 | Matchup: 37.2
+- [**เบลดเทคเกอร์ (Human)**](rogue/human/class5_blade_taker.md) — DPS: 1,410 | Matchup: 33.2
+- [**เทมเปอร์มาสเตอร์ (Human)**](rogue/human/class5_temper_master.md) — DPS: 7,155 | Matchup: 63.9
+- [**อาร์คเรนเจอร์ (Human)**](rogue/human/class5_arc_ranger.md) — DPS: 7,155 | Matchup: 58.0
+- [**สไนเปอร์ (Elf)**](rogue/elf/class5_sniper.md) — DPS: 2,408 | Matchup: 43.7
+- [**เอ็นแทรปเปอร์ (Elf)**](rogue/elf/class5_entrapper.md) — DPS: 1,727 | Matchup: 36.8
+- [**เบลดเทคเกอร์ (Elf)**](rogue/elf/class5_blade_taker.md) — DPS: 1,381 | Matchup: 32.9
+- [**เทมเปอร์มาสเตอร์ (Elf)**](rogue/elf/class5_temper_master.md) — DPS: 7,011 | Matchup: 63.5
+- [**อาร์คเรนเจอร์ (Elf)**](rogue/elf/class5_arc_ranger.md) — DPS: 7,011 | Matchup: 57.6
 
 ### 🔮 Mage
 
-- [**คาร์ดินัล (Human)**](combat/mage/human/combat_cardinal_human.md) — DPS: 5,439 | Matchup: 55.8
-- [**โซลอาร์บิเตอร์ (Human)**](combat/mage/human/combat_soul_arbiter_human.md) — DPS: 5,004 | Matchup: 63.1
-- [**แกรนด์มาสเตอร์ (Human)**](combat/mage/human/combat_grand_master_human.md) — DPS: 6,896 | Matchup: 52.3
-- [**เนโครแมนเซอร์ (Human)**](combat/mage/human/combat_necromancer_human.md) — DPS: 14,175 | Matchup: 46.3
-- [**รูนมาสเตอร์ (Human)**](combat/mage/human/combat_runic_master_human.md) — DPS: 2,152 | Matchup: 43.9
-- [**คาร์ดินัล (Elf)**](combat/mage/elf/combat_cardinal_elf.md) — DPS: 5,527 | Matchup: 56.2
-- [**โซลอาร์บิเตอร์ (Elf)**](combat/mage/elf/combat_soul_arbiter_elf.md) — DPS: 5,088 | Matchup: 63.5
-- [**แกรนด์มาสเตอร์ (Elf)**](combat/mage/elf/combat_grand_master_elf.md) — DPS: 7,008 | Matchup: 52.6
-- [**รูนมาสเตอร์ (Elf)**](combat/mage/elf/combat_runic_master_elf.md) — DPS: 14,406 | Matchup: 46.5
-- [**เนโครแมนเซอร์ (Elf)**](combat/mage/elf/combat_necromancer_elf.md) — DPS: 2,186 | Matchup: 44.2
+- [**คาร์ดินัล (Human)**](mage/human/class5_cardinal.md) — DPS: 5,439 | Matchup: 55.8
+- [**โซลอาร์บิเตอร์ (Human)**](mage/human/class5_soul_arbiter.md) — DPS: 5,004 | Matchup: 63.1
+- [**แกรนด์มาสเตอร์ (Human)**](mage/human/class5_grand_master.md) — DPS: 6,896 | Matchup: 52.3
+- [**เนโครแมนเซอร์ (Human)**](mage/human/class5_necromancer.md) — DPS: 14,175 | Matchup: 46.3
+- [**รูนมาสเตอร์ (Human)**](mage/human/class5_runic_master.md) — DPS: 2,152 | Matchup: 43.9
+- [**คาร์ดินัล (Elf)**](mage/elf/class5_cardinal.md) — DPS: 5,527 | Matchup: 56.2
+- [**โซลอาร์บิเตอร์ (Elf)**](mage/elf/class5_soul_arbiter.md) — DPS: 5,088 | Matchup: 63.5
+- [**แกรนด์มาสเตอร์ (Elf)**](mage/elf/class5_grand_master.md) — DPS: 7,008 | Matchup: 52.6
+- [**รูนมาสเตอร์ (Elf)**](mage/elf/class5_runic_master.md) — DPS: 14,406 | Matchup: 46.5
+- [**เนโครแมนเซอร์ (Elf)**](mage/elf/class5_necromancer.md) — DPS: 2,186 | Matchup: 44.2
 
 ### 😈 Devil
 
-- [**อะบิสลอร์ด (Devil)**](combat/devil/devil/combat_abyss_lord_devil.md) — DPS: 2,462 | Matchup: 42.3
+- [**อะบิสลอร์ด (Devil)**](devil/devil/class5_abyss_lord.md) — DPS: 2,462 | Matchup: 42.3
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — Generated: 2026-02-13 20:33*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — Generated: 2026-02-13 21:44*
