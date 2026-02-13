@@ -1,7 +1,7 @@
 # 🔮 เนโครแมนเซอร์ (3255) — Skill Simulation
 
 > Elf | Mage | Tier 5 | 25 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-14 00:44
+> Simulator v1.1.0 | Generated: 2026-02-14 01:00
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -115,4 +115,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — เนโครแมนเซอร์ — 2026-02-14 00:44*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — เนโครแมนเซอร์ — 2026-02-14 01:00*
