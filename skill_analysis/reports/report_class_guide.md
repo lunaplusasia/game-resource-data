@@ -1,7 +1,7 @@
 # 🎯 LUNA Skill Analysis - คู่มือสายอาชีพ (Class Path Guide)
 
-> **Generated:** 2026-02-13 22:38:54  
-> **Skill Analysis Version:** 2.8.0  
+> **Generated:** 2026-02-14 02:17:35  
+> **Skill Analysis Version:** 2.9.0  
 > **Source:** `regenerate_all.py` → `generate_final_class_path_guide_md()`
 
 > สรุปจุดเด่น จุดด้อย คำแนะนำของแต่ละสายอาชีพ
@@ -564,4 +564,4 @@
 
 ---
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 | Generated: 2026-02-13 22:38:54
+📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 | Generated: 2026-02-14 02:17:35

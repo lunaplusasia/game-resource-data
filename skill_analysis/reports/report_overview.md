@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Skill Analysis Version:** `2.8.0` ｜ **Generated:** `2026-02-13 22:38:54`
+**Skill Analysis Version:** `2.9.0` ｜ **Generated:** `2026-02-14 02:17:35`
 
 ---
 
@@ -157,6 +157,6 @@
 
 <div align="center">
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 | Generated: 2026-02-13 22:38:54*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 | Generated: 2026-02-14 02:17:35*
 
 </div>

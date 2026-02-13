@@ -1,7 +1,7 @@
 # ⚖️ LUNA Skill Analysis — Balance Report
 
-> **Generated:** 2026-02-13 22:38:55  
-> **Skill Analysis Version:** 2.8.0  
+> **Generated:** 2026-02-14 02:17:36  
+> **Skill Analysis Version:** 2.9.0  
 > **Source:** `regenerate_all.py` → `generate_final_report_balance_md()`
 
 > วิเคราะห์ความสมดุลระหว่างสายอาชีพ ณ คลาสสูงสุด (C5)
@@ -1244,4 +1244,4 @@ if (fStatusDataMul != 0) StatusData *= fStatusDataMul;
 
 ---
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 | Generated: 2026-02-13 22:38:55
+📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 | Generated: 2026-02-14 02:17:36

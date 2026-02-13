@@ -1,7 +1,7 @@
 # 🗡️ อาร์คเรนเจอร์ (2155) — Skill Simulation
 
 > Human | Rogue | Tier 5 | 16 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-14 01:00
+> Simulator v1.1.0 | Generated: 2026-02-14 02:23
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -89,4 +89,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — อาร์คเรนเจอร์ — 2026-02-14 01:00*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — อาร์คเรนเจอร์ — 2026-02-14 02:23*
