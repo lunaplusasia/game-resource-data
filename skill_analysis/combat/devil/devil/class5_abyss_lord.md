@@ -117,4 +117,4 @@
 
 [← กลับไปหน้าสรุป](../../index.md)
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — Generated: 2026-02-13 21:44*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — Generated: 2026-02-14 00:44*

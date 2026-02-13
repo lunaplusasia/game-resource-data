@@ -28,7 +28,7 @@
 
 ---
 
-**System Version:** 2.8.0
+**System Version:** 2.9.0
 **Game Patch:** 2.0.0
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0
+📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0

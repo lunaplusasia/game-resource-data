@@ -1,7 +1,7 @@
 # ⚔️ พาลาดิน (1251) — Skill Simulation
 
 > Elf | Fighter | Tier 5 | 19 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-13 21:44
+> Simulator v1.1.0 | Generated: 2026-02-14 00:44
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -100,4 +100,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — พาลาดิน — 2026-02-13 21:44*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — พาลาดิน — 2026-02-14 00:44*

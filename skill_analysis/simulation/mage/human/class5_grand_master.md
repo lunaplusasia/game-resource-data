@@ -1,7 +1,7 @@
 # 🔮 แกรนด์มาสเตอร์ (3153) — Skill Simulation
 
 > Human | Mage | Tier 5 | 14 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-13 21:44
+> Simulator v1.1.0 | Generated: 2026-02-14 00:44
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -85,4 +85,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — แกรนด์มาสเตอร์ — 2026-02-13 21:44*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — แกรนด์มาสเตอร์ — 2026-02-14 00:44*

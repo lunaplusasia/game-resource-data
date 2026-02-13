@@ -4,6 +4,23 @@
 * [ภาพรวมระบบ](overview.md)
 * [วิเคราะห์ Balance](balance.md)
 
+## 📋 Consolidated Reports
+
+* [📊 Report: สรุปรวม (Overview)](reports/report_overview.md)
+* [🎯 Report: คู่มือสายอาชีพ (Class Guide)](reports/report_class_guide.md)
+* [⚖️ Report: วิเคราะห์ Balance](reports/report_balance.md)
+* [📜 Report: Skill Get List](reports/report_skill_get_list.md)
+* [⚔️ Report: Combat Summary](reports/report_combat.md)
+
+## 🤖 AI Reviews
+
+* [🤖 AI Review: Skill Inventory](01_ai_review_skill_inventory.md)
+* [🤖 AI Review: Progression Analysis](02_ai_review_skill_progression.md)
+* [🤖 AI Review: Combat Analysis](03_ai_review_skill_combat.md)
+* [🤖 AI Review: Simulation Analysis](04_ai_review_skill_simulation.md)
+* [🤖 AI Review: Balance Analysis](05_ai_review_skill_balance.md)
+* [🤖 AI Review: Overview](06_ai_review_skill_overview.md)
+
 ## Skills
 
 * ⚔️ Fighter
