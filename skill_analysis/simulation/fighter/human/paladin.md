@@ -16,46 +16,46 @@
 
 | สกิล | HPS | Heal | Mana | CD |
 |------|----:|-----:|-----:|---:|
-| เซ้นต์ฮีล | 0 | 0 | 35 | 2.5s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/230:0:0" width="20" height="20" align="absmiddle" alt="เซ้นต์ฮีล"> เซ้นต์ฮีล | 0 | 0 | 35 | 2.5s |
 
 ## Aggro/Taunt Skills
 
 | สกิล | Aggro | Aggro/Mana | Attract | Mana | CD |
 |------|------:|-----------:|--------:|-----:|---:|
-| แอทแทรค | 1,916,490 | 23,956 | 2.0 | 80 | 2.7s |
-| แอทแทรคเซอร์เคิล | 850,481 | 6,443 | 2.0 | 132 | 5.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรค"> แอทแทรค | 1,916,490 | 23,956 | 2.0 | 80 | 2.7s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/96:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรคเซอร์เคิล"> แอทแทรคเซอร์เคิล | 850,481 | 6,443 | 2.0 | 132 | 5.2s |
 
 ## Buff/Debuff Effects
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| แอทแทรค | เคียวร์เคอร์ส(Lv10) | Status_0 | - | 3.0s |
-| แอทแทรค | โรวิ่งวอเตอร์แอทแทรค | พลังป้องกันกายภาพ | -60% | 15.0s |
-| แอทแทรค | โรวิ่งวอเตอร์แอทแทรค | พลังป้องกันเวทย์ | -60% | 15.0s |
-| แอทแทรคเซอร์เคิล | เคียวร์เคอร์ส(Lv10) | Status_0 | - | 3.0s |
-| แอทแทรคเซอร์เคิล | แอทแทรคเซอร์เคิล | พลังป้องกันกายภาพ | -30% | 30.0s |
-| แอทแทรคเซอร์เคิล | แอทแทรคเซอร์เคิล | พลังป้องกันเวทย์ | -30% | 30.0s |
-| ทูมบัสต์ | ดูมเบอร์สท์ | สะท้อนดาเมจ | 49.0 | 1200.0s |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +23% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +10 | - |
-| ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | พลังป้องกันกายภาพ | +400% | 15.0s |
-| ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | พลังป้องกันเวทย์ | +400% | 15.0s |
-| ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | ความเร็วเคลื่อนที่ | -50% | 15.0s |
-| ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | ใช้บัฟไม่ได้ | +1 | 6.5s |
-| โซลิดชิลด์ | โซลิดชิลด์ | โอกาสป้องกันด้วยโล่ | +40% | 1800.0s |
-| รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
-| รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
-| เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
-| เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +10% | - |
-| เมสโพรเทคชั่น | เมสโพรเทคชั่น:สุขภาพ | VIT | +5 | - |
-| ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | พลังป้องกันกายภาพ | +53% | - |
-| ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | อัตราหลบหลีก | +30% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
-| เบลสซิ่งการ์ด | เบลสซิ่งการ์ด | พลังป้องกันกายภาพ | +30% | 600.0s |
-| เบลสซิ่งการ์ด | เบลสซิ่งการ์ด | พลังป้องกันเวทย์ | +15% | 600.0s |
-| ไอรอนชิลด์ | พลังเกราะป้องกัน | โล่เกราะ | +10% | 300.0s |
-| วันแฮนด์เทรนนิ่ง | วันแฮนด์เทรนนิ่ง | พลังโจมตีกายภาพ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรค"> แอทแทรค | เคียวร์เคอร์ส(Lv10) | Status_0 | - | 3.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรค"> แอทแทรค | โรวิ่งวอเตอร์แอทแทรค | พลังป้องกันกายภาพ | -60% | 15.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรค"> แอทแทรค | โรวิ่งวอเตอร์แอทแทรค | พลังป้องกันเวทย์ | -60% | 15.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/96:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรคเซอร์เคิล"> แอทแทรคเซอร์เคิล | เคียวร์เคอร์ส(Lv10) | Status_0 | - | 3.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/96:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรคเซอร์เคิล"> แอทแทรคเซอร์เคิล | แอทแทรคเซอร์เคิล | พลังป้องกันกายภาพ | -30% | 30.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/96:0:0" width="20" height="20" align="absmiddle" alt="แอทแทรคเซอร์เคิล"> แอทแทรคเซอร์เคิล | แอทแทรคเซอร์เคิล | พลังป้องกันเวทย์ | -30% | 30.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/157:0:0" width="20" height="20" align="absmiddle" alt="ทูมบัสต์"> ทูมบัสต์ | ดูมเบอร์สท์ | สะท้อนดาเมจ | 49.0 | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +23% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +10 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/94:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์แบริเออร์"> ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | พลังป้องกันกายภาพ | +400% | 15.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/94:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์แบริเออร์"> ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | พลังป้องกันเวทย์ | +400% | 15.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/94:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์แบริเออร์"> ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | ความเร็วเคลื่อนที่ | -50% | 15.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/94:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์แบริเออร์"> ชิลด์แบริเออร์ | ชิลด์แบริเออร์ | ใช้บัฟไม่ได้ | +1 | 6.5s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/162:0:0" width="20" height="20" align="absmiddle" alt="โซลิดชิลด์"> โซลิดชิลด์ | โซลิดชิลด์ | โอกาสป้องกันด้วยโล่ | +40% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/430:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งไฟท์เตอร์"> เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/225:0:0" width="20" height="20" align="absmiddle" alt="เมสโพรเทคชั่น"> เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +10% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/225:0:0" width="20" height="20" align="absmiddle" alt="เมสโพรเทคชั่น"> เมสโพรเทคชั่น | เมสโพรเทคชั่น:สุขภาพ | VIT | +5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/20:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เทรนนิ่ง"> ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | พลังป้องกันกายภาพ | +53% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/20:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เทรนนิ่ง"> ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | อัตราหลบหลีก | +30% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/18:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งการ์ด"> เบลสซิ่งการ์ด | เบลสซิ่งการ์ด | พลังป้องกันกายภาพ | +30% | 600.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/18:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งการ์ด"> เบลสซิ่งการ์ด | เบลสซิ่งการ์ด | พลังป้องกันเวทย์ | +15% | 600.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/162:0:0" width="20" height="20" align="absmiddle" alt="ไอรอนชิลด์"> ไอรอนชิลด์ | พลังเกราะป้องกัน | โล่เกราะ | +10% | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/10:0:0" width="20" height="20" align="absmiddle" alt="วันแฮนด์เทรนนิ่ง"> วันแฮนด์เทรนนิ่ง | วันแฮนด์เทรนนิ่ง | พลังโจมตีกายภาพ | +20% | - |
 
 ---
 

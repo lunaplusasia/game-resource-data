@@ -16,34 +16,34 @@
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนเทรนนิ่ง | พลังโจมตีกายภาพ | +8% | - |
-| ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนมาสเตอร์ | ความเร็วโจมตี | +9% | - |
-| ดูอัลวิปพอนมาสเตอรี่ | ใช้อาวุธคู่ได้ | ใช้ดาบสองมือได้ | +1 | - |
-| ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดคริติคอลกายภาพ | โอกาสคริติคอลกายภาพ | +10% | - |
-| ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดการหลบหลีก | อัตราหลบหลีก | -5 | - |
-| ดูอัลวิปพอนมาสเตอรี่ | บทลงโทษ:ลดระดับสกิล | พลังโจมตีกายภาพ | -13% | - |
-| มานาสตอร์ม | มานาสตอร์ม | พลังมานาสูงสุด | +26% | 1590.0s |
-| แอคคูเรซี่ออร่า | แอคคูเรซี่ออร่า | ความแม่นยำ | +30 | 900.0s |
-| แอคคูเรซี่ออร่า | แอคคูเรซี่ออร่า | DEX | +100 | 900.0s |
-| ชิลด์ออร่า | ชิลด์ออร่า | พลังป้องกันกายภาพ | +20% | 900.0s |
-| ชิลด์ออร่า | ชิลด์ออร่า | VIT | +100 | 900.0s |
-| แรมเพจออร่า | แรมเพจออร่า | ความเร็วโจมตี | +36% | 900.0s |
-| แรมเพจออร่า | แรมเพจออร่า | STR | +100 | 900.0s |
-| มานาแวมไพร์ | มัสเกทสโคป | ดาเมจที่โจมตีเป็นพลังมานา | +1% | 1080.0s |
-| โพรเทคชั่นออร่า | โพรเทคชั่นออร่า | คงกระพัน | +0 | 12.0s |
-| โพรเทคชั่นออร่า | โพรเทคชั่น^sอรา | ความเร็วเคลื่อนที่ | -30% | 12.0s |
-| รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
-| รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
-| เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
-| แอกซ์เทรนนิ่ง | แอกซ์เทรนนิ่ง | พลังโจมตีกายภาพ | +12% | - |
-| แอ็กซ์มอทัลลิตี้ | แอ็กซ์มอทัลลิตี้ | คริติคอลดาเมจ | +20% | - |
-| แอ็กซ์มอทัลลิตี้ | แอกซ์มอทัลลิตี้ | โอกาสคริติคอลกายภาพ | +20% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
-| เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +10% | - |
-| เมสโพรเทคชั่น | เมสโพรเทคชั่น:สุขภาพ | VIT | +5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/267:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนเทรนนิ่ง"> ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนเทรนนิ่ง | พลังโจมตีกายภาพ | +8% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/267:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนเทรนนิ่ง"> ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนมาสเตอร์ | ความเร็วโจมตี | +9% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | ใช้อาวุธคู่ได้ | ใช้ดาบสองมือได้ | +1 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดคริติคอลกายภาพ | โอกาสคริติคอลกายภาพ | +10% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดการหลบหลีก | อัตราหลบหลีก | -5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | บทลงโทษ:ลดระดับสกิล | พลังโจมตีกายภาพ | -13% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/100:0:0" width="20" height="20" align="absmiddle" alt="มานาสตอร์ม"> มานาสตอร์ม | มานาสตอร์ม | พลังมานาสูงสุด | +26% | 1590.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/167:0:0" width="20" height="20" align="absmiddle" alt="แอคคูเรซี่ออร่า"> แอคคูเรซี่ออร่า | แอคคูเรซี่ออร่า | ความแม่นยำ | +30 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/167:0:0" width="20" height="20" align="absmiddle" alt="แอคคูเรซี่ออร่า"> แอคคูเรซี่ออร่า | แอคคูเรซี่ออร่า | DEX | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/168:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์ออร่า"> ชิลด์ออร่า | ชิลด์ออร่า | พลังป้องกันกายภาพ | +20% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/168:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์ออร่า"> ชิลด์ออร่า | ชิลด์ออร่า | VIT | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/169:0:0" width="20" height="20" align="absmiddle" alt="แรมเพจออร่า"> แรมเพจออร่า | แรมเพจออร่า | ความเร็วโจมตี | +36% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/169:0:0" width="20" height="20" align="absmiddle" alt="แรมเพจออร่า"> แรมเพจออร่า | แรมเพจออร่า | STR | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/346:0:0" width="20" height="20" align="absmiddle" alt="มานาแวมไพร์"> มานาแวมไพร์ | มัสเกทสโคป | ดาเมจที่โจมตีเป็นพลังมานา | +1% | 1080.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/78:0:0" width="20" height="20" align="absmiddle" alt="โพรเทคชั่นออร่า"> โพรเทคชั่นออร่า | โพรเทคชั่นออร่า | คงกระพัน | +0 | 12.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/78:0:0" width="20" height="20" align="absmiddle" alt="โพรเทคชั่นออร่า"> โพรเทคชั่นออร่า | โพรเทคชั่น^sอรา | ความเร็วเคลื่อนที่ | -30% | 12.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/430:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งไฟท์เตอร์"> เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/14:0:0" width="20" height="20" align="absmiddle" alt="แอกซ์เทรนนิ่ง"> แอกซ์เทรนนิ่ง | แอกซ์เทรนนิ่ง | พลังโจมตีกายภาพ | +12% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/224:0:0" width="20" height="20" align="absmiddle" alt="แอ็กซ์มอทัลลิตี้"> แอ็กซ์มอทัลลิตี้ | แอ็กซ์มอทัลลิตี้ | คริติคอลดาเมจ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/224:0:0" width="20" height="20" align="absmiddle" alt="แอ็กซ์มอทัลลิตี้"> แอ็กซ์มอทัลลิตี้ | แอกซ์มอทัลลิตี้ | โอกาสคริติคอลกายภาพ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/225:0:0" width="20" height="20" align="absmiddle" alt="เมสโพรเทคชั่น"> เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +10% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/225:0:0" width="20" height="20" align="absmiddle" alt="เมสโพรเทคชั่น"> เมสโพรเทคชั่น | เมสโพรเทคชั่น:สุขภาพ | VIT | +5 | - |
 
 ---
 

@@ -20,23 +20,23 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| รูนไซเลนซ์ | silence | 30.0s | 8.2s | 80% | - |
-| ดีไวน์โฮลด์ | move_stop | 5.0s | 15.5s | 40% | - |
-| รูนสโตนเคิร์ส | stone | 6.0s | 8.2s | 80% | - |
-| ชิลบรีซ | freeze | 4.9s | 5.5s | 70% | - |
-| บลิสซาร์ด | freeze | 4.0s | 10.9s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="รูนไซเลนซ์"> รูนไซเลนซ์ | silence | 30.0s | 8.2s | 80% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/86:0:0" width="20" height="20" align="absmiddle" alt="ดีไวน์โฮลด์"> ดีไวน์โฮลด์ | move_stop | 5.0s | 15.5s | 40% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/70087:0:0" width="20" height="20" align="absmiddle" alt="รูนสโตนเคิร์ส"> รูนสโตนเคิร์ส | stone | 6.0s | 8.2s | 80% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="ชิลบรีซ"> ชิลบรีซ | freeze | 4.9s | 5.5s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/123:0:0" width="20" height="20" align="absmiddle" alt="บลิสซาร์ด"> บลิสซาร์ด | freeze | 4.0s | 10.9s | 70% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 3 | 5 | move_stop, freeze, silence, stone | 49% | 4.8s |
+| cc_support | 3 | 5 | move_stop, stone, silence, freeze | 49% | 4.8s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | ชิลบรีซ | 1,988 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="ชิลบรีซ"> ชิลบรีซ | 1,988 | 100% |
 
 ## Matchup
 

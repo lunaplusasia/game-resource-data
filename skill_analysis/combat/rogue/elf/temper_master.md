@@ -20,9 +20,9 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| แคสติ้งฟอยล์ | sleep | 1.0s | 6.6s | 100% | - |
-| แคสติ้งฟอยล์ | silence | 1.1s | 6.6s | 60% | - |
-| ฟาวน์ดิ้งช๊อต | stun | 2.6s | 6.2s | 50% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/182:0:0" width="20" height="20" align="absmiddle" alt="แคสติ้งฟอยล์"> แคสติ้งฟอยล์ | sleep | 1.0s | 6.6s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/182:0:0" width="20" height="20" align="absmiddle" alt="แคสติ้งฟอยล์"> แคสติ้งฟอยล์ | silence | 1.1s | 6.6s | 60% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/108:0:0" width="20" height="20" align="absmiddle" alt="ฟาวน์ดิ้งช๊อต"> ฟาวน์ดิ้งช๊อต | stun | 2.6s | 6.2s | 50% | - |
 
 ## CC Summary
 
@@ -34,7 +34,7 @@
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | เมจิคแอโรว์ | 6,010 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/84:0:0" width="20" height="20" align="absmiddle" alt="เมจิคแอโรว์"> เมจิคแอโรว์ | 6,010 | 100% |
 
 ## Matchup
 

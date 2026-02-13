@@ -20,22 +20,22 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| ฮาร์มสตริง | paralysis | 12.0s | 5.0s | 70% | - |
-| ฮาร์มสตริง | knockback | 500ms | 5.0s | 100% | - |
-| แรพพิดแอโรว์ | knockback | 500ms | 3.5s | 100% | - |
-| ฟาวน์ดิ้งช๊อต | stun | 2.6s | 6.2s | 50% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/44:0:0" width="20" height="20" align="absmiddle" alt="ฮาร์มสตริง"> ฮาร์มสตริง | paralysis | 12.0s | 5.0s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/44:0:0" width="20" height="20" align="absmiddle" alt="ฮาร์มสตริง"> ฮาร์มสตริง | knockback | 500ms | 5.0s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/174:0:0" width="20" height="20" align="absmiddle" alt="แรพพิดแอโรว์"> แรพพิดแอโรว์ | knockback | 500ms | 3.5s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/108:0:0" width="20" height="20" align="absmiddle" alt="ฟาวน์ดิ้งช๊อต"> ฟาวน์ดิ้งช๊อต | stun | 2.6s | 6.2s | 50% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 2 | 4 | stun, knockback, paralysis | 64% | 8.4s |
+| cc_support | 2 | 4 | paralysis, knockback, stun | 64% | 8.4s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | เมจิคแอโรว์ | 6,133 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/84:0:0" width="20" height="20" align="absmiddle" alt="เมจิคแอโรว์"> เมจิคแอโรว์ | 6,133 | 100% |
 
 ## Matchup
 

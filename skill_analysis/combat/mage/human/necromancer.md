@@ -20,7 +20,7 @@
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | มิทิเออร์ | 4,253 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/196:0:0" width="20" height="20" align="absmiddle" alt="มิทิเออร์"> มิทิเออร์ | 4,253 | 100% |
 
 ## Matchup
 

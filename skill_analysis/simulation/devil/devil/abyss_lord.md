@@ -12,47 +12,47 @@
 
 | สกิล | Aggro | Aggro/Mana | Attract | Mana | CD |
 |------|------:|-----------:|--------:|-----:|---:|
-| เว็ปพอนเบรค | 0 | 0 | 2.0 | 363 | 900ms |
-| อาร์เมอร์เบรค | 0 | 0 | 2.0 | 225 | 800ms |
-| มายด์เบรค | 0 | 0 | 2.0 | 118 | 2.2s |
-| ไนท์แมร์ | 0 | 0 | 2.0 | 1,128 | 15.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/377:0:0" width="20" height="20" align="absmiddle" alt="เว็ปพอนเบรค"> เว็ปพอนเบรค | 0 | 0 | 2.0 | 363 | 900ms |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/378:0:0" width="20" height="20" align="absmiddle" alt="อาร์เมอร์เบรค"> อาร์เมอร์เบรค | 0 | 0 | 2.0 | 225 | 800ms |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/379:0:0" width="20" height="20" align="absmiddle" alt="มายด์เบรค"> มายด์เบรค | 0 | 0 | 2.0 | 118 | 2.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/380:0:0" width="20" height="20" align="absmiddle" alt="ไนท์แมร์"> ไนท์แมร์ | 0 | 0 | 2.0 | 1,128 | 15.0s |
 
 ## Buff/Debuff Effects
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| เว็ปพอนเบรค | อาวุธเบรคเกอร์ | พลังโจมตีกายภาพ | -67% | 60.0s |
-| เว็ปพอนเบรค | อาวุธเบรคเกอร์ | พลังโจมตีเวทย์ | -67% | 60.0s |
-| อาร์เมอร์เบรค | เกราะเบรคเกอร์ | พลังป้องกันกายภาพ | -67% | 60.0s |
-| มายด์เบรค | มายด์เบรคเกอร์ | พลังป้องกันเวทย์ | -67% | 60.0s |
-| โซลดิไวเดอร์ | โซลดิไวเดอร์ | ความแม่นยำ | -150% | 4.2s |
-| ไลท์นิ่งเพน | ไลท์ติ้งเบน | ความเร็วเคลื่อนที่ | -170% | 3.4s |
-| ไลท์นิ่งเพน | อัตราบล็อกโล่^s-200% | โอกาสป้องกันด้วยโล่ | -200% | 10.0s |
-| ดูอัลอันเดอร์ | ดูอัสอันเดอร์ | พลังโจมตีกายภาพ | +16% | - |
-| เอวิลสปิริทชวล | เอนฮานซ์^sMP | พลังมานาสูงสุด | +20% | - |
-| เอวิลสปิริทชวล | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +15% | - |
-| อาเมอร์บาวู๊ด | ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | พลังป้องกันกายภาพ | +18% | - |
-| เดโมนิกกิฟท์ | สเพ็ลคราฟท์ | พลังโจมตีเวทย์ | +30% | - |
-| พรแห่งเบอร์เซ่ | เบอร์เซ่แบรส | ความเร็วโจมตี | +127% | - |
-| พรแห่งเบอร์เซ่ | เบอร์เซ่แบรส | ความแม่นยำ | +38 | - |
-| พรแห่งเบอร์เซ่ | เบอร์เซ่แบรส | คริติคอลดาเมจ | +102% | - |
-| พรแห่งรูเปีย | รูเปียแบรส | ความเร็วร่ายเวทย์ | +60% | - |
-| พรแห่งรูเปีย | รูเปียแบรส | คริติคอลดาเมจเวทย์ | +102% | - |
-| พรแห่งรูเปีย | รูเปียแบรส | ความเร็วเคลื่อนที่ | +15% | - |
-| พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังชีวิตสูงสุด | +18% | - |
-| พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังป้องกันกายภาพ | +28% | - |
-| พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | WIS | +100 | - |
-| พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังป้องกันเวทย์ | +28% | - |
-| พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | VIT | +100 | - |
-| พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | อัตราหลบหลีก | +21 | - |
-| พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังโจมตีเวทย์ | -25% | - |
-| ฮีลลิ่งเซอร์เคิล | ฮีลลิ่งเซอร์เคิล | ใช้บัฟไม่ได้ | +1 | 5.0s |
-| เอวิลแอดไวเซอร์ | อิวิลแอดวิเซอร์ | พลังโจมตีเวทย์ | +20% | 1800.0s |
-| เอวิลแอดไวเซอร์ | อิวิลแอดวิเซอร์ | โอกาสคริติคอลเวทย์ | +20% | 1800.0s |
-| คาโอติกอาร์มี่ | คาโอติกอาร์มี่ | พลังโจมตีกายภาพ | +18% | 1800.0s |
-| คาโอติกอาร์มี่ | คาโอติกอาร์มี่ | โอกาสคริติคอลกายภาพ | +10% | 1800.0s |
-| บลัดรัสท์ | บลัดลูส | ดาเมจที่ได้รับเป็นพลังมานา | +10 | 1800.0s |
-| เอวิลเทมเพสท์ | เอวิลเทมเพสท์ | ความเร็วเคลื่อนที่ | -150% | 2.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/377:0:0" width="20" height="20" align="absmiddle" alt="เว็ปพอนเบรค"> เว็ปพอนเบรค | อาวุธเบรคเกอร์ | พลังโจมตีกายภาพ | -67% | 60.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/377:0:0" width="20" height="20" align="absmiddle" alt="เว็ปพอนเบรค"> เว็ปพอนเบรค | อาวุธเบรคเกอร์ | พลังโจมตีเวทย์ | -67% | 60.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/378:0:0" width="20" height="20" align="absmiddle" alt="อาร์เมอร์เบรค"> อาร์เมอร์เบรค | เกราะเบรคเกอร์ | พลังป้องกันกายภาพ | -67% | 60.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/379:0:0" width="20" height="20" align="absmiddle" alt="มายด์เบรค"> มายด์เบรค | มายด์เบรคเกอร์ | พลังป้องกันเวทย์ | -67% | 60.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/105:0:0" width="20" height="20" align="absmiddle" alt="โซลดิไวเดอร์"> โซลดิไวเดอร์ | โซลดิไวเดอร์ | ความแม่นยำ | -150% | 4.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/364:0:0" width="20" height="20" align="absmiddle" alt="ไลท์นิ่งเพน"> ไลท์นิ่งเพน | ไลท์ติ้งเบน | ความเร็วเคลื่อนที่ | -170% | 3.4s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/364:0:0" width="20" height="20" align="absmiddle" alt="ไลท์นิ่งเพน"> ไลท์นิ่งเพน | อัตราบล็อกโล่^s-200% | โอกาสป้องกันด้วยโล่ | -200% | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/267:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลอันเดอร์"> ดูอัลอันเดอร์ | ดูอัสอันเดอร์ | พลังโจมตีกายภาพ | +16% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอวิลสปิริทชวล"> เอวิลสปิริทชวล | เอนฮานซ์^sMP | พลังมานาสูงสุด | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอวิลสปิริทชวล"> เอวิลสปิริทชวล | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +15% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/11:0:0" width="20" height="20" align="absmiddle" alt="อาเมอร์บาวู๊ด"> อาเมอร์บาวู๊ด | ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | พลังป้องกันกายภาพ | +18% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/60:0:0" width="20" height="20" align="absmiddle" alt="เดโมนิกกิฟท์"> เดโมนิกกิฟท์ | สเพ็ลคราฟท์ | พลังโจมตีเวทย์ | +30% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/360:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งเบอร์เซ่"> พรแห่งเบอร์เซ่ | เบอร์เซ่แบรส | ความเร็วโจมตี | +127% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/360:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งเบอร์เซ่"> พรแห่งเบอร์เซ่ | เบอร์เซ่แบรส | ความแม่นยำ | +38 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/360:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งเบอร์เซ่"> พรแห่งเบอร์เซ่ | เบอร์เซ่แบรส | คริติคอลดาเมจ | +102% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/361:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งรูเปีย"> พรแห่งรูเปีย | รูเปียแบรส | ความเร็วร่ายเวทย์ | +60% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/361:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งรูเปีย"> พรแห่งรูเปีย | รูเปียแบรส | คริติคอลดาเมจเวทย์ | +102% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/361:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งรูเปีย"> พรแห่งรูเปีย | รูเปียแบรส | ความเร็วเคลื่อนที่ | +15% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/362:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งฟาร์เซก้า"> พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังชีวิตสูงสุด | +18% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/362:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งฟาร์เซก้า"> พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังป้องกันกายภาพ | +28% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/362:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งฟาร์เซก้า"> พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | WIS | +100 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/362:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งฟาร์เซก้า"> พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังป้องกันเวทย์ | +28% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/362:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งฟาร์เซก้า"> พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | VIT | +100 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/362:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งฟาร์เซก้า"> พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | อัตราหลบหลีก | +21 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/362:0:0" width="20" height="20" align="absmiddle" alt="พรแห่งฟาร์เซก้า"> พรแห่งฟาร์เซก้า | ฟาริเซก้าแบรส | พลังโจมตีเวทย์ | -25% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/385:0:0" width="20" height="20" align="absmiddle" alt="ฮีลลิ่งเซอร์เคิล"> ฮีลลิ่งเซอร์เคิล | ฮีลลิ่งเซอร์เคิล | ใช้บัฟไม่ได้ | +1 | 5.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/383:0:0" width="20" height="20" align="absmiddle" alt="เอวิลแอดไวเซอร์"> เอวิลแอดไวเซอร์ | อิวิลแอดวิเซอร์ | พลังโจมตีเวทย์ | +20% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/383:0:0" width="20" height="20" align="absmiddle" alt="เอวิลแอดไวเซอร์"> เอวิลแอดไวเซอร์ | อิวิลแอดวิเซอร์ | โอกาสคริติคอลเวทย์ | +20% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/382:0:0" width="20" height="20" align="absmiddle" alt="คาโอติกอาร์มี่"> คาโอติกอาร์มี่ | คาโอติกอาร์มี่ | พลังโจมตีกายภาพ | +18% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/382:0:0" width="20" height="20" align="absmiddle" alt="คาโอติกอาร์มี่"> คาโอติกอาร์มี่ | คาโอติกอาร์มี่ | โอกาสคริติคอลกายภาพ | +10% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/381:0:0" width="20" height="20" align="absmiddle" alt="บลัดรัสท์"> บลัดรัสท์ | บลัดลูส | ดาเมจที่ได้รับเป็นพลังมานา | +10 | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/88:0:0" width="20" height="20" align="absmiddle" alt="เอวิลเทมเพสท์"> เอวิลเทมเพสท์ | เอวิลเทมเพสท์ | ความเร็วเคลื่อนที่ | -150% | 2.0s |
 
 ---
 

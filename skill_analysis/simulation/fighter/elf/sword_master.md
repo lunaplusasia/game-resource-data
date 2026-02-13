@@ -16,36 +16,36 @@
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| เอิร์ธเวฟ | เอิร์ธเวฟ | ความเร็วเคลื่อนที่ | -200% | 18.0s |
-| ครูเอลซอร์ด | ครอสซอร์ดเดอร์2 | ผลักออกจากเป้าหมาย | -500 | 500ms |
-| ครูเอลซอร์ด | ครูเอลซอร์ด | ความเร็วเคลื่อนที่ | -200% | 5.0s |
-| ทูแฮนด์เทรนนิ่ง | ทูแฮนด์เทรนนิ่ง | พลังโจมตีกายภาพ | +30% | - |
-| ซอร์ดเทรนนิ่ง | ซอร์ดเทรนนิ่ง | พลังโจมตีกายภาพ | +12% | - |
-| แอกซ์เทรนนิ่ง | แอกซ์เทรนนิ่ง | พลังโจมตีกายภาพ | +12% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +13% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +13% | - |
-| ซอร์ดแอคคูเรซี่ | ซอร์ดแอคคูเรซี่ | ความแม่นยำ | +25% | - |
-| เรจเบอร์สท์ | เรจเบิร์สท์ | พลังโจมตีกายภาพ | +20% | 1660.0s |
-| แอ็กซ์มอทัลลิตี้ | แอ็กซ์มอทัลลิตี้ | คริติคอลดาเมจ | +20% | - |
-| แอ็กซ์มอทัลลิตี้ | แอกซ์มอทัลลิตี้ | โอกาสคริติคอลกายภาพ | +20% | - |
-| เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +5% | - |
-| ไฟเตอร์ฮาร์ท | ไฟเตอร์ฮาร์ท | STR | +160 | 1660.0s |
-| รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
-| รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
-| เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
-| เฟียร์ฟูลโบลว | บูมโบลวมูฟ2 | ผลักออกจากเป้าหมาย | -500 | 500ms |
-| เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | ความเร็วโจมตี | +49% | 10.0s |
-| เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | พลังป้องกันกายภาพ | -50% | 10.0s |
-| เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | พลังป้องกันเวทย์ | -50% | 10.0s |
-| เบอร์เซอเคอร์ | เบอร์เซอเกอร์ | อัตราหลบหลีก | +300 | 10.0s |
-| เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | คงกระพัน | +0 | 7.5s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/159:0:0" width="20" height="20" align="absmiddle" alt="เอิร์ธเวฟ"> เอิร์ธเวฟ | เอิร์ธเวฟ | ความเร็วเคลื่อนที่ | -200% | 18.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/341:0:0" width="20" height="20" align="absmiddle" alt="ครูเอลซอร์ด"> ครูเอลซอร์ด | ครอสซอร์ดเดอร์2 | ผลักออกจากเป้าหมาย | -500 | 500ms |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/341:0:0" width="20" height="20" align="absmiddle" alt="ครูเอลซอร์ด"> ครูเอลซอร์ด | ครูเอลซอร์ด | ความเร็วเคลื่อนที่ | -200% | 5.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/26:0:0" width="20" height="20" align="absmiddle" alt="ทูแฮนด์เทรนนิ่ง"> ทูแฮนด์เทรนนิ่ง | ทูแฮนด์เทรนนิ่ง | พลังโจมตีกายภาพ | +30% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/13:0:0" width="20" height="20" align="absmiddle" alt="ซอร์ดเทรนนิ่ง"> ซอร์ดเทรนนิ่ง | ซอร์ดเทรนนิ่ง | พลังโจมตีกายภาพ | +12% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/14:0:0" width="20" height="20" align="absmiddle" alt="แอกซ์เทรนนิ่ง"> แอกซ์เทรนนิ่ง | แอกซ์เทรนนิ่ง | พลังโจมตีกายภาพ | +12% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +13% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +13% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/231:0:0" width="20" height="20" align="absmiddle" alt="ซอร์ดแอคคูเรซี่"> ซอร์ดแอคคูเรซี่ | ซอร์ดแอคคูเรซี่ | ความแม่นยำ | +25% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/232:0:0" width="20" height="20" align="absmiddle" alt="เรจเบอร์สท์"> เรจเบอร์สท์ | เรจเบิร์สท์ | พลังโจมตีกายภาพ | +20% | 1660.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/224:0:0" width="20" height="20" align="absmiddle" alt="แอ็กซ์มอทัลลิตี้"> แอ็กซ์มอทัลลิตี้ | แอ็กซ์มอทัลลิตี้ | คริติคอลดาเมจ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/224:0:0" width="20" height="20" align="absmiddle" alt="แอ็กซ์มอทัลลิตี้"> แอ็กซ์มอทัลลิตี้ | แอกซ์มอทัลลิตี้ | โอกาสคริติคอลกายภาพ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/225:0:0" width="20" height="20" align="absmiddle" alt="เมสโพรเทคชั่น"> เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +5% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/9:0:0" width="20" height="20" align="absmiddle" alt="ไฟเตอร์ฮาร์ท"> ไฟเตอร์ฮาร์ท | ไฟเตอร์ฮาร์ท | STR | +160 | 1660.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/430:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งไฟท์เตอร์"> เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/351:0:0" width="20" height="20" align="absmiddle" alt="เฟียร์ฟูลโบลว"> เฟียร์ฟูลโบลว | บูมโบลวมูฟ2 | ผลักออกจากเป้าหมาย | -500 | 500ms |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/166:0:0" width="20" height="20" align="absmiddle" alt="เบอร์เซอเคอร์"> เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | ความเร็วโจมตี | +49% | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/166:0:0" width="20" height="20" align="absmiddle" alt="เบอร์เซอเคอร์"> เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | พลังป้องกันกายภาพ | -50% | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/166:0:0" width="20" height="20" align="absmiddle" alt="เบอร์เซอเคอร์"> เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | พลังป้องกันเวทย์ | -50% | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/166:0:0" width="20" height="20" align="absmiddle" alt="เบอร์เซอเคอร์"> เบอร์เซอเคอร์ | เบอร์เซอเกอร์ | อัตราหลบหลีก | +300 | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/166:0:0" width="20" height="20" align="absmiddle" alt="เบอร์เซอเคอร์"> เบอร์เซอเคอร์ | เบอร์เซอเคอร์ | คงกระพัน | +0 | 7.5s |
 | เบิร์นนิ่งแครช | เบิร์นนิ่งแครช | โอกาสป้องกันด้วยโล่ | -200% | 10.0s |
-| อาร์มเมอร์ซิงโคร | อาร์มเมอร์ซิงโคร | ความเร็วเคลื่อนที่ | +30% | 1200.0s |
-| วิพพอนซิงโคร | วิพพอนซิงโคร | ความเร็วโจมตี | +15% | 1200.0s |
-| วิพพอนซิงโคร | วิพพอนซิงโคร | ความแม่นยำ | +30% | 1200.0s |
-| ริสกี้เทคเกอร์ | ริสกี้เทคเกอร์ | พลังโจมตีกายภาพ | +44% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/171:0:0" width="20" height="20" align="absmiddle" alt="อาร์มเมอร์ซิงโคร"> อาร์มเมอร์ซิงโคร | อาร์มเมอร์ซิงโคร | ความเร็วเคลื่อนที่ | +30% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/172:0:0" width="20" height="20" align="absmiddle" alt="วิพพอนซิงโคร"> วิพพอนซิงโคร | วิพพอนซิงโคร | ความเร็วโจมตี | +15% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/172:0:0" width="20" height="20" align="absmiddle" alt="วิพพอนซิงโคร"> วิพพอนซิงโคร | วิพพอนซิงโคร | ความแม่นยำ | +30% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/227:0:0" width="20" height="20" align="absmiddle" alt="ริสกี้เทคเกอร์"> ริสกี้เทคเกอร์ | ริสกี้เทคเกอร์ | พลังโจมตีกายภาพ | +44% | - |
 
 ---
 

@@ -17,24 +17,24 @@
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| โฮลี่สโตรค | โฮลี่สโตรค | ความเร็วเคลื่อนที่ | -100% | 14.0s |
-| เรจซอร์ด | เรจซอร์ด | ความเร็วเคลื่อนที่ | -67% | 11.0s |
-| เซ้นต์แช็คเกิ้ล | ลดพลังป้องกันเวทย์(Lv30) | พลังป้องกันเวทย์ | -60% | 26.5s |
-| ช๊อคเวฟ | เบรสซิ่งช็อค | ความเร็วเคลื่อนที่ | -50% | 8.0s |
-| มานาสตอร์ม | มานาสตอร์ม | พลังมานาสูงสุด | +35% | 1800.0s |
-| เมนทัลเวอร์เทกซ์ | พลังโจมตีเวทย์(Lv10) | พลังโจมตีเวทย์ | +43% | 900.0s |
-| อาร์มเมอร์ซิงโคร | อาร์มเมอร์ซิงโคร | ความเร็วเคลื่อนที่ | +30% | 1200.0s |
-| มานาออร่า | มานาโอร่า | โล่มานา | +95% | - |
-| รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
-| รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
-| เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
-| โร๊บเอ็กซเพอร์ไทซ์ | โร๊บเอ็กซเพอร์ไทซ์ | พลังป้องกันกายภาพ | +15% | - |
-| โฮลี่สโตรค | โฮลี่สโตรค | ความเร็วเคลื่อนที่ | -52% | 10.0s |
-| ทวิงเกิ้ลเมจิก | ทวิงเกิ้ลเมจิก | โอกาสคริติคอลเวทย์ | +25% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/5:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สโตรค"> โฮลี่สโตรค | โฮลี่สโตรค | ความเร็วเคลื่อนที่ | -100% | 14.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/348:0:0" width="20" height="20" align="absmiddle" alt="เรจซอร์ด"> เรจซอร์ด | เรจซอร์ด | ความเร็วเคลื่อนที่ | -67% | 11.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="เซ้นต์แช็คเกิ้ล"> เซ้นต์แช็คเกิ้ล | ลดพลังป้องกันเวทย์(Lv30) | พลังป้องกันเวทย์ | -60% | 26.5s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/353:0:0" width="20" height="20" align="absmiddle" alt="ช๊อคเวฟ"> ช๊อคเวฟ | เบรสซิ่งช็อค | ความเร็วเคลื่อนที่ | -50% | 8.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/100:0:0" width="20" height="20" align="absmiddle" alt="มานาสตอร์ม"> มานาสตอร์ม | มานาสตอร์ม | พลังมานาสูงสุด | +35% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/349:0:0" width="20" height="20" align="absmiddle" alt="เมนทัลเวอร์เทกซ์"> เมนทัลเวอร์เทกซ์ | พลังโจมตีเวทย์(Lv10) | พลังโจมตีเวทย์ | +43% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/171:0:0" width="20" height="20" align="absmiddle" alt="อาร์มเมอร์ซิงโคร"> อาร์มเมอร์ซิงโคร | อาร์มเมอร์ซิงโคร | ความเร็วเคลื่อนที่ | +30% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="มานาออร่า"> มานาออร่า | มานาโอร่า | โล่มานา | +95% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/430:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งไฟท์เตอร์"> เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/60:0:0" width="20" height="20" align="absmiddle" alt="โร๊บเอ็กซเพอร์ไทซ์"> โร๊บเอ็กซเพอร์ไทซ์ | โร๊บเอ็กซเพอร์ไทซ์ | พลังป้องกันกายภาพ | +15% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/5:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สโตรค"> โฮลี่สโตรค | โฮลี่สโตรค | ความเร็วเคลื่อนที่ | -52% | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/234:0:0" width="20" height="20" align="absmiddle" alt="ทวิงเกิ้ลเมจิก"> ทวิงเกิ้ลเมจิก | ทวิงเกิ้ลเมจิก | โอกาสคริติคอลเวทย์ | +25% | 1800.0s |
 
 ---
 

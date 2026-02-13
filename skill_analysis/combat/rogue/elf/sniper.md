@@ -20,21 +20,21 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| พรอกซิมิตี้ไฟร์ | stun | 4.0s | 6.0s | 37% | - |
-| พรอกซิมิตี้ไฟร์ | knockback | 500ms | 6.0s | 100% | - |
-| แฟลชไฟร์ | stun | 5.0s | 6.0s | 37% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/273:0:0" width="20" height="20" align="absmiddle" alt="พรอกซิมิตี้ไฟร์"> พรอกซิมิตี้ไฟร์ | stun | 4.0s | 6.0s | 37% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/273:0:0" width="20" height="20" align="absmiddle" alt="พรอกซิมิตี้ไฟร์"> พรอกซิมิตี้ไฟร์ | knockback | 500ms | 6.0s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/274:0:0" width="20" height="20" align="absmiddle" alt="แฟลชไฟร์"> แฟลชไฟร์ | stun | 5.0s | 6.0s | 37% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 2 | 3 | stun, knockback | 46% | 1.9s |
+| cc_support | 2 | 3 | knockback, stun | 46% | 1.9s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | สแตนดิ้งช๊อต | 2,258 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/271:0:0" width="20" height="20" align="absmiddle" alt="สแตนดิ้งช๊อต"> สแตนดิ้งช๊อต | 2,258 | 100% |
 
 ## Matchup
 

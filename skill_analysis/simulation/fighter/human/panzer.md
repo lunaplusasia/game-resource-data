@@ -16,24 +16,24 @@
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| สแตนดิ้งไฟร์ | สแตนดิ้งไฟร์ | ความเร็วเคลื่อนที่ | -200% | 3.0s |
-| ไอรอนบอมบ์ | ไอรอนบอมบ์ | ความเร็วเคลื่อนที่ | -200% | 5.0s |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
-| เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
-| มัสเกทแอคคูเรซี่ | มัสเกทแอคคูเรซี่ | ความแม่นยำ | +21 | - |
-| มัสเกทเทรนนิ่ง | มัสเกทเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
-| โซลิดวิพพอน | โซลิดวิพพอน | พลังโจมตีกายภาพ | +25% | 1800.0s |
-| รีโหลดดิ้ง | รีโหลดดิ้ง(Lv5) | ความเร็วโจมตี | +50% | 300.0s |
-| รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
-| รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
-| เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
-| มัสเกทเรนจ์ | มัสเกทเรนจ์ | พิสัยการโจมตี | +250 | - |
-| เรจเบอร์สท์ | เรจเบิร์สท์ | พลังโจมตีกายภาพ | +20% | 1660.0s |
-| เฟทัลฟอร์ซ | คริติคอลดดาเมจกายภาพ(Lv3) | คริติคอลดาเมจ | +44% | 300.0s |
-| อาร์มเมอร์ซิงโคร | อาร์มเมอร์ซิงโคร | ความเร็วเคลื่อนที่ | +30% | 1200.0s |
-| วิพพอนซิงโคร | วิพพอนซิงโคร | ความเร็วโจมตี | +15% | 1200.0s |
-| วิพพอนซิงโคร | วิพพอนซิงโคร | ความแม่นยำ | +30% | 1200.0s |
-| มัสเกทสโคป | มัสเกทสโคป(Lv10) | พิสัยการโจมตี | +650 | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/271:0:0" width="20" height="20" align="absmiddle" alt="สแตนดิ้งไฟร์"> สแตนดิ้งไฟร์ | สแตนดิ้งไฟร์ | ความเร็วเคลื่อนที่ | -200% | 3.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/246:0:0" width="20" height="20" align="absmiddle" alt="ไอรอนบอมบ์"> ไอรอนบอมบ์ | ไอรอนบอมบ์ | ความเร็วเคลื่อนที่ | -200% | 5.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | พลังป้องกันกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/19:0:0" width="20" height="20" align="absmiddle" alt="เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์"> เฮฟวี่อาร์เมอร์เอ็กซ์เพอร์ไทซ์ | เฮฟวี่เอ็กซ์เพอร์ไทซ์:สุขภาพ | VIT | +8 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/356:0:0" width="20" height="20" align="absmiddle" alt="มัสเกทแอคคูเรซี่"> มัสเกทแอคคูเรซี่ | มัสเกทแอคคูเรซี่ | ความแม่นยำ | +21 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/357:0:0" width="20" height="20" align="absmiddle" alt="มัสเกทเทรนนิ่ง"> มัสเกทเทรนนิ่ง | มัสเกทเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/164:0:0" width="20" height="20" align="absmiddle" alt="โซลิดวิพพอน"> โซลิดวิพพอน | โซลิดวิพพอน | พลังโจมตีกายภาพ | +25% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/355:0:0" width="20" height="20" align="absmiddle" alt="รีโหลดดิ้ง"> รีโหลดดิ้ง | รีโหลดดิ้ง(Lv5) | ความเร็วโจมตี | +50% | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีฟอสเฟทอล | VIT | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/429:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์ซไวทัล"> รีอินฟอร์ซไวทัล | รีอินฟอร์ซไวทัล | โอกาสป้องกันด้วยโล่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/430:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งไฟท์เตอร์"> เบลสซิ่งไฟท์เตอร์ | เบรสซิ่งไฟต์เตอร์ | ความเร็วโจมตี | +50% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/358:0:0" width="20" height="20" align="absmiddle" alt="มัสเกทเรนจ์"> มัสเกทเรนจ์ | มัสเกทเรนจ์ | พิสัยการโจมตี | +250 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/232:0:0" width="20" height="20" align="absmiddle" alt="เรจเบอร์สท์"> เรจเบอร์สท์ | เรจเบิร์สท์ | พลังโจมตีกายภาพ | +20% | 1660.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/345:0:0" width="20" height="20" align="absmiddle" alt="เฟทัลฟอร์ซ"> เฟทัลฟอร์ซ | คริติคอลดดาเมจกายภาพ(Lv3) | คริติคอลดาเมจ | +44% | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/171:0:0" width="20" height="20" align="absmiddle" alt="อาร์มเมอร์ซิงโคร"> อาร์มเมอร์ซิงโคร | อาร์มเมอร์ซิงโคร | ความเร็วเคลื่อนที่ | +30% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/172:0:0" width="20" height="20" align="absmiddle" alt="วิพพอนซิงโคร"> วิพพอนซิงโคร | วิพพอนซิงโคร | ความเร็วโจมตี | +15% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/172:0:0" width="20" height="20" align="absmiddle" alt="วิพพอนซิงโคร"> วิพพอนซิงโคร | วิพพอนซิงโคร | ความแม่นยำ | +30% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/276:0:0" width="20" height="20" align="absmiddle" alt="มัสเกทสโคป"> มัสเกทสโคป | มัสเกทสโคป(Lv10) | พิสัยการโจมตี | +650 | 300.0s |
 
 ---
 

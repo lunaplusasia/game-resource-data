@@ -16,43 +16,43 @@
 
 | สกิล | Aggro | Aggro/Mana | Attract | Mana | CD |
 |------|------:|-----------:|--------:|-----:|---:|
-| ทรานควิลลิตี้ | 0 | 0 | 0.0 | 109 | 25.2s |
-| คริปเปิ้ล | 0 | 0 | 0.0 | 150 | 25.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/200:0:0" width="20" height="20" align="absmiddle" alt="ทรานควิลลิตี้"> ทรานควิลลิตี้ | 0 | 0 | 0.0 | 109 | 25.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/201:0:0" width="20" height="20" align="absmiddle" alt="คริปเปิ้ล"> คริปเปิ้ล | 0 | 0 | 0.0 | 150 | 25.2s |
 
 ## Buff/Debuff Effects
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| โฮลี่สไปค์ | โฮลี่สไปค์ | ความเร็วโจมตี | -35% | 13.7s |
-| โฮลี่สไปค์ | โฮลี่สไปค์ | ความเร็วร่ายเวทย์ | -20% | 13.7s |
-| โฮลี่อัพเปอร์ | โฮลี่อัพเปอร์ | ความเร็วเคลื่อนที่ | -200% | 7.0s |
-| โร๊บเอ็กซเพอร์ไทซ์ | โร๊บเอ็กซเพอร์ไทซ์ | พลังป้องกันกายภาพ | +15% | - |
-| อินเทลิเจนท์ | อินเทลิเจนท์ | INT | +40 | 1400.0s |
-| วิสดอม | วิสดอม | WIS | +40 | 1400.0s |
-| มายนด์แบริเออร์ | มายนด์แบริเออร์ | พลังป้องกันเวทย์ | +17% | 1140.0s |
-| เบลสเฟทอล | เบลสเฟทอล | พลังชีวิตสูงสุด | +20% | 1530.0s |
-| คอนเซ็นเทรชั่น | คอนเซ็นเทรชั่น | พลังโจมตีเวทย์ | +18% | 900.0s |
-| คอนเซ็นเทรชั่น | คอนเซ็นเทรชั่น | พลังป้องกันกายภาพ | -20% | 900.0s |
-| ทวิงเกิ้ลเมจิก | ทวิงเกิ้ลเมจิก | โอกาสคริติคอลเวทย์ | +25% | 1800.0s |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
-| เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
-| ฟอร์จูนเนทเมจิค | ฟอร์จูนเนทเมจิค | โอกาสคริติคอลเวทย์ | +22% | 300.0s |
-| เมจิคแบริเออร์ | เมจิคแบริเออร์ | พลังป้องกันเวทย์ | +20% | - |
-| เอนฮานซ์^sHP | เอนฮานซ^sHP | พลังชีวิตสูงสุด | +1000 | - |
-| เอนฮานซ์^sHP | เพิ่มเอ็นฮานซ์^sHP | พลังชีวิตสูงสุด | +2% | - |
-| เอนฮานซ์^sHP | ฟื้นคืนเอ็นฮานซ์^sHP | อัตราฟื้นคืนพลังชีวิต | +8 | - |
-| เอนฮานซ์^sMP | เอนฮานซ์^sMP | พลังมานาสูงสุด | +667 | - |
-| เอนฮานซ์^sMP | เพิ่มเอ็นฮานซ์^sMP | พลังมานาสูงสุด | +2% | - |
-| เอนฮานซ์^sMP | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +5 | - |
-| สเพ็ลคราฟท์ | สเพ็ลคราฟท์ | พลังโจมตีเวทย์ | +30% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
-| เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
-| เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +10% | - |
-| เมสโพรเทคชั่น | เมสโพรเทคชั่น:สุขภาพ | VIT | +5 | - |
-| ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | พลังป้องกันกายภาพ | +53% | - |
-| ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | อัตราหลบหลีก | +30% | - |
-| อาร์เมอร์ลิงค์ | อาร์เมอร์ลิงค์ | พลังป้องกันกายภาพ | +27% | 600.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/129:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สไปค์"> โฮลี่สไปค์ | โฮลี่สไปค์ | ความเร็วโจมตี | -35% | 13.7s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/129:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สไปค์"> โฮลี่สไปค์ | โฮลี่สไปค์ | ความเร็วร่ายเวทย์ | -20% | 13.7s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/130:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่อัพเปอร์"> โฮลี่อัพเปอร์ | โฮลี่อัพเปอร์ | ความเร็วเคลื่อนที่ | -200% | 7.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/60:0:0" width="20" height="20" align="absmiddle" alt="โร๊บเอ็กซเพอร์ไทซ์"> โร๊บเอ็กซเพอร์ไทซ์ | โร๊บเอ็กซเพอร์ไทซ์ | พลังป้องกันกายภาพ | +15% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/55:0:0" width="20" height="20" align="absmiddle" alt="อินเทลิเจนท์"> อินเทลิเจนท์ | อินเทลิเจนท์ | INT | +40 | 1400.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/56:0:0" width="20" height="20" align="absmiddle" alt="วิสดอม"> วิสดอม | วิสดอม | WIS | +40 | 1400.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/58:0:0" width="20" height="20" align="absmiddle" alt="มายนด์แบริเออร์"> มายนด์แบริเออร์ | มายนด์แบริเออร์ | พลังป้องกันเวทย์ | +17% | 1140.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/133:0:0" width="20" height="20" align="absmiddle" alt="เบลสเฟทอล"> เบลสเฟทอล | เบลสเฟทอล | พลังชีวิตสูงสุด | +20% | 1530.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/207:0:0" width="20" height="20" align="absmiddle" alt="คอนเซ็นเทรชั่น"> คอนเซ็นเทรชั่น | คอนเซ็นเทรชั่น | พลังโจมตีเวทย์ | +18% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/207:0:0" width="20" height="20" align="absmiddle" alt="คอนเซ็นเทรชั่น"> คอนเซ็นเทรชั่น | คอนเซ็นเทรชั่น | พลังป้องกันกายภาพ | -20% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/234:0:0" width="20" height="20" align="absmiddle" alt="ทวิงเกิ้ลเมจิก"> ทวิงเกิ้ลเมจิก | ทวิงเกิ้ลเมจิก | โอกาสคริติคอลเวทย์ | +25% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/208:0:0" width="20" height="20" align="absmiddle" alt="ฟอร์จูนเนทเมจิค"> ฟอร์จูนเนทเมจิค | ฟอร์จูนเนทเมจิค | โอกาสคริติคอลเวทย์ | +22% | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/78:0:0" width="20" height="20" align="absmiddle" alt="เมจิคแบริเออร์"> เมจิคแบริเออร์ | เมจิคแบริเออร์ | พลังป้องกันเวทย์ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/12:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sHP"> เอนฮานซ์^sHP | เอนฮานซ^sHP | พลังชีวิตสูงสุด | +1000 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/12:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sHP"> เอนฮานซ์^sHP | เพิ่มเอ็นฮานซ์^sHP | พลังชีวิตสูงสุด | +2% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/12:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sHP"> เอนฮานซ์^sHP | ฟื้นคืนเอ็นฮานซ์^sHP | อัตราฟื้นคืนพลังชีวิต | +8 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | เอนฮานซ์^sMP | พลังมานาสูงสุด | +667 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | เพิ่มเอ็นฮานซ์^sMP | พลังมานาสูงสุด | +2% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/77:0:0" width="20" height="20" align="absmiddle" alt="สเพ็ลคราฟท์"> สเพ็ลคราฟท์ | สเพ็ลคราฟท์ | พลังโจมตีเวทย์ | +30% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง | พลังโจมตีกายภาพ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/15:0:0" width="20" height="20" align="absmiddle" alt="เมซเทรนนิ่ง"> เมซเทรนนิ่ง | เมซเทรนนิ่ง^2 | พลังโจมตีเวทย์ | +17% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/225:0:0" width="20" height="20" align="absmiddle" alt="เมสโพรเทคชั่น"> เมสโพรเทคชั่น | เมสโพรเทคชั่น | พลังป้องกันกายภาพ | +10% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/225:0:0" width="20" height="20" align="absmiddle" alt="เมสโพรเทคชั่น"> เมสโพรเทคชั่น | เมสโพรเทคชั่น:สุขภาพ | VIT | +5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/20:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เทรนนิ่ง"> ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | พลังป้องกันกายภาพ | +53% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/20:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เทรนนิ่ง"> ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | อัตราหลบหลีก | +30% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/132:0:0" width="20" height="20" align="absmiddle" alt="อาร์เมอร์ลิงค์"> อาร์เมอร์ลิงค์ | อาร์เมอร์ลิงค์ | พลังป้องกันกายภาพ | +27% | 600.0s |
 
 ---
 

@@ -20,20 +20,20 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| รูนอิมแพค | stun | 4.0s | 4.6s | 60% | - |
-| รูนอิมแพค | knockback | 500ms | 4.6s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/161:0:0" width="20" height="20" align="absmiddle" alt="รูนอิมแพค"> รูนอิมแพค | stun | 4.0s | 4.6s | 60% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/161:0:0" width="20" height="20" align="absmiddle" alt="รูนอิมแพค"> รูนอิมแพค | knockback | 500ms | 4.6s | 100% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 1 | 2 | stun, knockback | 52% | 2.4s |
+| cc_support | 1 | 2 | knockback, stun | 52% | 2.4s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | ดูอัลโบลว | 3,825 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/344:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลโบลว"> ดูอัลโบลว | 3,825 | 100% |
 
 ## Matchup
 

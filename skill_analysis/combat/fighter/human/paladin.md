@@ -20,24 +20,24 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| ชิลด์เอดจ์ | knockback | 500ms | 6.2s | 100% | - |
-| ชิลด์เอดจ์ | stun | 4.5s | 6.2s | 60% | - |
-| ชิลด์แบริเออร์ | unable_buff | 5.0s | 120.0s | 100% | - |
-| บลันทชิลด์ | stun | 1.5s | 4.2s | 70% | - |
-| ชิลด์ชาร์จจิ้ง | knockback | 500ms | 4.3s | 100% | - |
-| ชิลด์ชาร์จจิ้ง | stun | 2.5s | 4.3s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/16:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เอดจ์"> ชิลด์เอดจ์ | knockback | 500ms | 6.2s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/16:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เอดจ์"> ชิลด์เอดจ์ | stun | 4.5s | 6.2s | 60% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/94:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์แบริเออร์"> ชิลด์แบริเออร์ | unable_buff | 5.0s | 120.0s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/17:0:0" width="20" height="20" align="absmiddle" alt="บลันทชิลด์"> บลันทชิลด์ | stun | 1.5s | 4.2s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/156:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์ชาร์จจิ้ง"> ชิลด์ชาร์จจิ้ง | knockback | 500ms | 4.3s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/156:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์ชาร์จจิ้ง"> ชิลด์ชาร์จจิ้ง | stun | 2.5s | 4.3s | 70% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 3 | 6 | stun, knockback, unable_buff | 59% | 2.7s |
+| cc_support | 3 | 6 | knockback, unable_buff, stun | 59% | 2.7s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | ชิลด์ชาร์จจิ้ง | 1,233 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/156:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์ชาร์จจิ้ง"> ชิลด์ชาร์จจิ้ง | 1,233 | 100% |
 
 ## Matchup
 

@@ -20,21 +20,21 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| ทอร์นาโดอัปเปอร์ | move_stop | 4.3s | 7.5s | 100% | - |
-| เดธชิลลี่เนส | freeze | 2.0s | 6.0s | 80% | - |
-| เกรทธันเดอร์ | stun | 2.6s | 8.3s | 20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/100:0:0" width="20" height="20" align="absmiddle" alt="ทอร์นาโดอัปเปอร์"> ทอร์นาโดอัปเปอร์ | move_stop | 4.3s | 7.5s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="เดธชิลลี่เนส"> เดธชิลลี่เนส | freeze | 2.0s | 6.0s | 80% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/197:0:0" width="20" height="20" align="absmiddle" alt="เกรทธันเดอร์"> เกรทธันเดอร์ | stun | 2.6s | 8.3s | 20% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| light_cc | 2 | 3 | move_stop, freeze, stun | -30% | 0ms |
+| light_cc | 2 | 3 | move_stop, stun, freeze | -30% | 0ms |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | เดธชิลลี่เนส | 4,725 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="เดธชิลลี่เนส"> เดธชิลลี่เนส | 4,725 | 100% |
 
 ## Matchup
 

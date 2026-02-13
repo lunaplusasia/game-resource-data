@@ -16,19 +16,19 @@
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| บูสท์สเพ็ล | บูสสเพ็ล | พลังโจมตีเวทย์ | +25% | 45.0s |
-| บูสท์สเพ็ล | บูสสเพ็ล | ความเร็วร่ายเวทย์ | -20% | 30.0s |
-| สเพ็ลคราฟท์ | สเพ็ลคราฟท์ | พลังโจมตีเวทย์ | +30% | - |
-| อินเทลิเจนท์ | อินเทลิเจนท์ | INT | +70 | 1590.0s |
-| มานาออร่า | มานาโอร่า | โล่มานา | +95% | - |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
-| เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
-| วิทช์คราฟท์ | วิทช์คราฟท์ | พลังโจมตีเวทย์ | +20% | - |
-| เอนฮานซ์^sMP | เอนฮานซ์^sMP | พลังมานาสูงสุด | +667 | - |
-| เอนฮานซ์^sMP | เพิ่มเอ็นฮานซ์^sMP | พลังมานาสูงสุด | +2% | - |
-| เอนฮานซ์^sMP | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +5 | - |
-| เบลสมายนด์ | เบลสมายนด์ | ดาเมจที่โจมตีเป็นพลังมานา | +2% | 1020.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/59:0:0" width="20" height="20" align="absmiddle" alt="บูสท์สเพ็ล"> บูสท์สเพ็ล | บูสสเพ็ล | พลังโจมตีเวทย์ | +25% | 45.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/59:0:0" width="20" height="20" align="absmiddle" alt="บูสท์สเพ็ล"> บูสท์สเพ็ล | บูสสเพ็ล | ความเร็วร่ายเวทย์ | -20% | 30.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/77:0:0" width="20" height="20" align="absmiddle" alt="สเพ็ลคราฟท์"> สเพ็ลคราฟท์ | สเพ็ลคราฟท์ | พลังโจมตีเวทย์ | +30% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/55:0:0" width="20" height="20" align="absmiddle" alt="อินเทลิเจนท์"> อินเทลิเจนท์ | อินเทลิเจนท์ | INT | +70 | 1590.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="มานาออร่า"> มานาออร่า | มานาโอร่า | โล่มานา | +95% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/213:0:0" width="20" height="20" align="absmiddle" alt="วิทช์คราฟท์"> วิทช์คราฟท์ | วิทช์คราฟท์ | พลังโจมตีเวทย์ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | เอนฮานซ์^sMP | พลังมานาสูงสุด | +667 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | เพิ่มเอ็นฮานซ์^sMP | พลังมานาสูงสุด | +2% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/67:0:0" width="20" height="20" align="absmiddle" alt="เบลสมายนด์"> เบลสมายนด์ | เบลสมายนด์ | ดาเมจที่โจมตีเป็นพลังมานา | +2% | 1020.0s |
 
 ---
 

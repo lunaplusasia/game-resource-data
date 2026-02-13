@@ -20,21 +20,21 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| เดมอนสไปค์ | stun | 7.8s | 5.4s | 80% | - |
-| ไลท์นิ่งสโตน | stun | 2.6s | 5.4s | 40% | - |
-| ธันเดอร์เบรค | knockback | 500ms | 3.5s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/22:0:0" width="20" height="20" align="absmiddle" alt="เดมอนสไปค์"> เดมอนสไปค์ | stun | 7.8s | 5.4s | 80% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/107:0:0" width="20" height="20" align="absmiddle" alt="ไลท์นิ่งสโตน"> ไลท์นิ่งสโตน | stun | 2.6s | 5.4s | 40% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/197:0:0" width="20" height="20" align="absmiddle" alt="ธันเดอร์เบรค"> ธันเดอร์เบรค | knockback | 500ms | 3.5s | 100% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 2 | 3 | stun, knockback | 65% | 6.2s |
+| cc_support | 2 | 3 | knockback, stun | 65% | 6.2s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | ธันเดอร์เบรค | 5,180 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/197:0:0" width="20" height="20" align="absmiddle" alt="ธันเดอร์เบรค"> ธันเดอร์เบรค | 5,180 | 100% |
 
 ## Matchup
 

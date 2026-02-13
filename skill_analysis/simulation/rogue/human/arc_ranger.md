@@ -16,19 +16,19 @@
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| ไอซ์เรนนิ่ง | ไอซ์เรนนิ่ง | ความเร็วเคลื่อนที่ | -200% | 7.5s |
-| ไฟเออร์แอโรว์ | ไฟล์แอโรว์ | ความเร็วเคลื่อนที่ | -200% | 6.3s |
-| โบวเทรนนิ่ง | โบวเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
-| ไบลนด์ไซด์ | ไบลนด์ไซด์ | โอกาสคริติคอลกายภาพ | +3% | - |
-| ลองช๊อต | ลองช๊อต | พิสัยการโจมตี | +480 | - |
-| เซฟเฟอร์ | เซฟเฟอร์ | DEX | +100 | 1460.0s |
-| เฟทอลทัช | เฟทอลทัช | คริติคอลดาเมจ | +19% | 1500.0s |
-| ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +17% | 1020.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/106:0:0" width="20" height="20" align="absmiddle" alt="ไอซ์เรนนิ่ง"> ไอซ์เรนนิ่ง | ไอซ์เรนนิ่ง | ความเร็วเคลื่อนที่ | -200% | 7.5s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/173:0:0" width="20" height="20" align="absmiddle" alt="ไฟเออร์แอโรว์"> ไฟเออร์แอโรว์ | ไฟล์แอโรว์ | ความเร็วเคลื่อนที่ | -200% | 6.3s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/35:0:0" width="20" height="20" align="absmiddle" alt="โบวเทรนนิ่ง"> โบวเทรนนิ่ง | โบวเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/39:0:0" width="20" height="20" align="absmiddle" alt="ไบลนด์ไซด์"> ไบลนด์ไซด์ | ไบลนด์ไซด์ | โอกาสคริติคอลกายภาพ | +3% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/41:0:0" width="20" height="20" align="absmiddle" alt="ลองช๊อต"> ลองช๊อต | ลองช๊อต | พิสัยการโจมตี | +480 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/32:0:0" width="20" height="20" align="absmiddle" alt="เซฟเฟอร์"> เซฟเฟอร์ | เซฟเฟอร์ | DEX | +100 | 1460.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/34:0:0" width="20" height="20" align="absmiddle" alt="เฟทอลทัช"> เฟทอลทัช | เฟทอลทัช | คริติคอลดาเมจ | +19% | 1500.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/47:0:0" width="20" height="20" align="absmiddle" alt="ควิคมูฟ"> ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +17% | 1020.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
 | เพียร์ซซิ่งแอโรว์ | นีดเดิ้ลช๊อต | พลังโจมตีกายภาพ | -30% | 40.0s |
 | เพียร์ซซิ่งแอโรว์ | เพียร์ซซิ่งแอโรว์ | พลังโจมตีเวทย์ | -30% | 12.0s |
 

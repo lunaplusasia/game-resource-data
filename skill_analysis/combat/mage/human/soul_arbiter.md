@@ -20,23 +20,23 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| โฮลี่สวิง | stun | 2.5s | 5.0s | 80% | - |
-| โฮลี่อัพเปอร์ | knockback | 500ms | 2.5s | 100% | - |
-| ทรานควิลลิตี้ | sleep | 12.0s | 25.2s | 75% | - |
-| คริปเปิ้ล | move_stop | 12.0s | 25.2s | 70% | - |
-| โฮลี่เอิร์ธเควค | stun | 6.3s | 3.8s | 68% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/128:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สวิง"> โฮลี่สวิง | stun | 2.5s | 5.0s | 80% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/130:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่อัพเปอร์"> โฮลี่อัพเปอร์ | knockback | 500ms | 2.5s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/200:0:0" width="20" height="20" align="absmiddle" alt="ทรานควิลลิตี้"> ทรานควิลลิตี้ | sleep | 12.0s | 25.2s | 75% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/201:0:0" width="20" height="20" align="absmiddle" alt="คริปเปิ้ล"> คริปเปิ้ล | move_stop | 12.0s | 25.2s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/101:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่เอิร์ธเควค"> โฮลี่เอิร์ธเควค | stun | 6.3s | 3.8s | 68% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 3 | 5 | stun, knockback, sleep, move_stop | 45% | 9.0s |
+| cc_support | 3 | 5 | knockback, move_stop, stun, sleep | 45% | 9.0s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | โฮลี่อัพเปอร์ | 5,004 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/130:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่อัพเปอร์"> โฮลี่อัพเปอร์ | 5,004 | 100% |
 
 ## Matchup
 

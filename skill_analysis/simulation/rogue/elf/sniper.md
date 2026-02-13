@@ -16,23 +16,23 @@
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| มัสเกทเทรนนิ่ง | มัสเกทเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
-| นีลลิ่งไฟร์ | นีลลิ่งไฟร์ | ความเร็วเคลื่อนที่ | -150% | 18.0s |
-| ไบลนด์ไซด์ | ไบลนด์ไซด์ | โอกาสคริติคอลกายภาพ | +3% | - |
-| มัสเกทเรนจ์ | มัสเกทเรนจ์ | พิสัยการโจมตี | +250 | - |
-| เซฟเฟอร์ | เซฟเฟอร์ | DEX | +100 | 1460.0s |
-| เฟทอลทัช | เฟทอลทัช | คริติคอลดาเมจ | +19% | 1500.0s |
-| ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +18% | 1080.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
-| มัสเกทสโคป | มัสเกทสโคป(Lv10) | พิสัยการโจมตี | +650 | 300.0s |
-| รีโหลดดิ้ง | รีโหลดดิ้ง(Lv5) | ความเร็วโจมตี | +50% | 300.0s |
-| อีเกิ้ลอาย | อีเกิ้ลอาย | ความแม่นยำ | +10 | - |
-| เดธซายน์ | เดธซายน์ | คริติคอลดาเมจ | +16% | - |
-| ฟาสต์รีโหลด | ฟาสต์รีโหลด | ความเร็วโจมตี | +20% | 270.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/357:0:0" width="20" height="20" align="absmiddle" alt="มัสเกทเทรนนิ่ง"> มัสเกทเทรนนิ่ง | มัสเกทเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/272:0:0" width="20" height="20" align="absmiddle" alt="นีลลิ่งไฟร์"> นีลลิ่งไฟร์ | นีลลิ่งไฟร์ | ความเร็วเคลื่อนที่ | -150% | 18.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/39:0:0" width="20" height="20" align="absmiddle" alt="ไบลนด์ไซด์"> ไบลนด์ไซด์ | ไบลนด์ไซด์ | โอกาสคริติคอลกายภาพ | +3% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/358:0:0" width="20" height="20" align="absmiddle" alt="มัสเกทเรนจ์"> มัสเกทเรนจ์ | มัสเกทเรนจ์ | พิสัยการโจมตี | +250 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/32:0:0" width="20" height="20" align="absmiddle" alt="เซฟเฟอร์"> เซฟเฟอร์ | เซฟเฟอร์ | DEX | +100 | 1460.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/34:0:0" width="20" height="20" align="absmiddle" alt="เฟทอลทัช"> เฟทอลทัช | เฟทอลทัช | คริติคอลดาเมจ | +19% | 1500.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/47:0:0" width="20" height="20" align="absmiddle" alt="ควิคมูฟ"> ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +18% | 1080.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/276:0:0" width="20" height="20" align="absmiddle" alt="มัสเกทสโคป"> มัสเกทสโคป | มัสเกทสโคป(Lv10) | พิสัยการโจมตี | +650 | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/355:0:0" width="20" height="20" align="absmiddle" alt="รีโหลดดิ้ง"> รีโหลดดิ้ง | รีโหลดดิ้ง(Lv5) | ความเร็วโจมตี | +50% | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/42:0:0" width="20" height="20" align="absmiddle" alt="อีเกิ้ลอาย"> อีเกิ้ลอาย | อีเกิ้ลอาย | ความแม่นยำ | +10 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/40:0:0" width="20" height="20" align="absmiddle" alt="เดธซายน์"> เดธซายน์ | เดธซายน์ | คริติคอลดาเมจ | +16% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/185:0:0" width="20" height="20" align="absmiddle" alt="ฟาสต์รีโหลด"> ฟาสต์รีโหลด | ฟาสต์รีโหลด | ความเร็วโจมตี | +20% | 270.0s |
 
 ---
 

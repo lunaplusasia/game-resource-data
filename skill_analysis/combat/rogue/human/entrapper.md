@@ -20,22 +20,22 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| ชิลด์บูมเมอแรง | stun | 2.6s | 3.7s | 70% | - |
-| ชิลด์บูมเมอแรง | knockback | 500ms | 3.7s | 100% | - |
-| แคชพาวน์ดิ้ง | stun | 5.0s | 4.2s | 55% | - |
-| เรจสเต็ป | paralysis | 4.0s | 8.2s | 65% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/178:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์บูมเมอแรง"> ชิลด์บูมเมอแรง | stun | 2.6s | 3.7s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/178:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์บูมเมอแรง"> ชิลด์บูมเมอแรง | knockback | 500ms | 3.7s | 100% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/108:0:0" width="20" height="20" align="absmiddle" alt="แคชพาวน์ดิ้ง"> แคชพาวน์ดิ้ง | stun | 5.0s | 4.2s | 55% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/45:0:0" width="20" height="20" align="absmiddle" alt="เรจสเต็ป"> เรจสเต็ป | paralysis | 4.0s | 8.2s | 65% | - |
 
 ## CC Summary
 
 | Verdict | Hard CC | Total CC | CC Types | Uptime | Max Chain |
 |---------|-------:|---------:|----------|-------:|----------:|
-| cc_support | 3 | 4 | stun, knockback, paralysis | 62% | 2.8s |
+| cc_support | 3 | 4 | paralysis, knockback, stun | 62% | 2.8s |
 
 ## Top DPS Skills
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | แคชพาวน์ดิ้ง | 1,642 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/108:0:0" width="20" height="20" align="absmiddle" alt="แคชพาวน์ดิ้ง"> แคชพาวน์ดิ้ง | 1,642 | 100% |
 
 ## Matchup
 

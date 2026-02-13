@@ -16,56 +16,56 @@
 
 | สกิล | HPS | Heal | Mana | CD |
 |------|----:|-----:|-----:|---:|
-| เนเจอร์เอด | 0 | 0 | 30 | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/61:0:0" width="20" height="20" align="absmiddle" alt="เนเจอร์เอด"> เนเจอร์เอด | 0 | 0 | 30 | 10.0s |
 
 ## Aggro/Taunt Skills
 
 | สกิล | Aggro | Aggro/Mana | Attract | Mana | CD |
 |------|------:|-----------:|--------:|-----:|---:|
-| สแลค | 0 | 0 | 0.0 | 50 | 5.3s |
-| เดดลี่โซล | 9,120 | 63 | 1.0 | 145 | 6.1s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/183:0:0" width="20" height="20" align="absmiddle" alt="สแลค"> สแลค | 0 | 0 | 0.0 | 50 | 5.3s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/111:0:0" width="20" height="20" align="absmiddle" alt="เดดลี่โซล"> เดดลี่โซล | 9,120 | 63 | 1.0 | 145 | 6.1s |
 
 ## Buff/Debuff Effects
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| สแลค | สแลค | ความเร็วเคลื่อนที่ | -150% | 18.0s |
-| พอยซั่นเอด | เคียวร์พอยชั่น(Lv3) | Status_0 | - | 3.0s |
-| เซฟเฟอร์ | เซฟเฟอร์ | DEX | +160 | 1660.0s |
-| ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +17% | 1020.0s |
-| ไซด์สเต็ป | ไซด์สเต็ป | อัตราหลบหลีก | +11 | 1720.0s |
-| วิสเพอริ่งวินด์ | วิสเปอริ่งวินด์ | โอกาสคริติคอลกายภาพ | +394 | 1500.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
-| ไลท์อีเวชั่น | ไลท์อีเวชั่น | อัตราหลบหลีก | +20 | - |
-| ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | พลังป้องกันกายภาพ | +23% | - |
-| ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์มเอ็กฟล็อบ | ไลท์อาร์มเมอร์ | +1 | - |
-| ชาโดว์อินสติงท์ | ชาโดว์อินสติงท์ | อัตราหลบหลีก | +20 | - |
-| แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
-| แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | ความเร็วโจมตี | +18% | - |
-| ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนเทรนนิ่ง | พลังโจมตีกายภาพ | +8% | - |
-| ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนมาสเตอร์ | ความเร็วโจมตี | +9% | - |
-| ดูอัลวิปพอนมาสเตอรี่ | ใช้อาวุธคู่ได้ | ใช้ดาบสองมือได้ | +1 | - |
-| ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดคริติคอลกายภาพ | โอกาสคริติคอลกายภาพ | +10% | - |
-| ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดการหลบหลีก | อัตราหลบหลีก | -5 | - |
-| ดูอัลวิปพอนมาสเตอรี่ | บทลงโทษ:ลดระดับสกิล | พลังโจมตีกายภาพ | -13% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/183:0:0" width="20" height="20" align="absmiddle" alt="สแลค"> สแลค | สแลค | ความเร็วเคลื่อนที่ | -150% | 18.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/74:0:0" width="20" height="20" align="absmiddle" alt="พอยซั่นเอด"> พอยซั่นเอด | เคียวร์พอยชั่น(Lv3) | Status_0 | - | 3.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/32:0:0" width="20" height="20" align="absmiddle" alt="เซฟเฟอร์"> เซฟเฟอร์ | เซฟเฟอร์ | DEX | +160 | 1660.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/47:0:0" width="20" height="20" align="absmiddle" alt="ควิคมูฟ"> ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +17% | 1020.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/116:0:0" width="20" height="20" align="absmiddle" alt="ไซด์สเต็ป"> ไซด์สเต็ป | ไซด์สเต็ป | อัตราหลบหลีก | +11 | 1720.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/117:0:0" width="20" height="20" align="absmiddle" alt="วิสเพอริ่งวินด์"> วิสเพอริ่งวินด์ | วิสเปอริ่งวินด์ | โอกาสคริติคอลกายภาพ | +394 | 1500.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/38:0:0" width="20" height="20" align="absmiddle" alt="ไลท์อีเวชั่น"> ไลท์อีเวชั่น | ไลท์อีเวชั่น | อัตราหลบหลีก | +20 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/11:0:0" width="20" height="20" align="absmiddle" alt="ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์"> ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | พลังป้องกันกายภาพ | +23% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/11:0:0" width="20" height="20" align="absmiddle" alt="ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์"> ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์มเอ็กฟล็อบ | ไลท์อาร์มเมอร์ | +1 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/136:0:0" width="20" height="20" align="absmiddle" alt="ชาโดว์อินสติงท์"> ชาโดว์อินสติงท์ | ชาโดว์อินสติงท์ | อัตราหลบหลีก | +20 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/36:0:0" width="20" height="20" align="absmiddle" alt="แด๊กเกอร์เทรนนิ่ง"> แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/36:0:0" width="20" height="20" align="absmiddle" alt="แด๊กเกอร์เทรนนิ่ง"> แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | ความเร็วโจมตี | +18% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/267:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนเทรนนิ่ง"> ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนเทรนนิ่ง | พลังโจมตีกายภาพ | +8% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/267:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนเทรนนิ่ง"> ดูอัลวิปพอนเทรนนิ่ง | ดูอัลวิปพอนมาสเตอร์ | ความเร็วโจมตี | +9% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | ใช้อาวุธคู่ได้ | ใช้ดาบสองมือได้ | +1 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดคริติคอลกายภาพ | โอกาสคริติคอลกายภาพ | +10% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | ลงโทษ:ลดการหลบหลีก | อัตราหลบหลีก | -5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/268:0:0" width="20" height="20" align="absmiddle" alt="ดูอัลวิปพอนมาสเตอรี่"> ดูอัลวิปพอนมาสเตอรี่ | บทลงโทษ:ลดระดับสกิล | พลังโจมตีกายภาพ | -13% | - |
 | เฟทอลบลาสท์ | เฟทอลบลาสท์ | พลังป้องกันเวทย์ | -50% | 12.0s |
 | เฟทอลบลาสท์ | เฟทอลบลาสท์ | พลังป้องกันกายภาพ | -50% | 12.0s |
 | แรพพิดสแลชชิ่ง | แรพพิดสแลชชิ่ง | พลังป้องกันกายภาพ | -30% | 12.0s |
 | แรพพิดสแลชชิ่ง | เอ็นวินอม | ความเร็วเคลื่อนที่ | -115% | 8.6s |
-| โบวเทรนนิ่ง | โบวเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/35:0:0" width="20" height="20" align="absmiddle" alt="โบวเทรนนิ่ง"> โบวเทรนนิ่ง | โบวเทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
 | ดับเบิ้ลช๊อต | ดับเบิ้ลช๊อต | ความเร็วเคลื่อนที่ | -50% | 5.0s |
 | ดับเบิ้ลช๊อต | ดับเบิ้ลช๊อต | พลังป้องกันกายภาพ | -50% | 5.0s |
 | เพียร์ซซิ่งแอโรว์ | นีดเดิ้ลช๊อต | พลังโจมตีกายภาพ | -30% | 40.0s |
 | เพียร์ซซิ่งแอโรว์ | เพียร์ซซิ่งแอโรว์ | พลังโจมตีเวทย์ | -30% | 12.0s |
-| แรพพิดมูฟเมนท์ | แรพพิดมูฟเมนท์ | ความเร็วเคลื่อนที่ | +14% | - |
-| แรพพิดแอทแทค | แรพพิดแอทแทค | ความเร็วโจมตี | +18% | - |
-| วิสเปอริ่งสตรีม | วิสเปอริ่งสตรีม | ความเร็วเคลื่อนที่ | +27% | 300.0s |
-| วิสเปอริ่งอิเวชั่น | วิสเปอริ่งอิเวชั่น | อัตราหลบหลีก | +17 | 300.0s |
-| วิสเปอริ่งไฟเออร์ | วิสเปอริ่งไฟเออร์ | คริติคอลดาเมจ | +19% | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/191:0:0" width="20" height="20" align="absmiddle" alt="แรพพิดมูฟเมนท์"> แรพพิดมูฟเมนท์ | แรพพิดมูฟเมนท์ | ความเร็วเคลื่อนที่ | +14% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/190:0:0" width="20" height="20" align="absmiddle" alt="แรพพิดแอทแทค"> แรพพิดแอทแทค | แรพพิดแอทแทค | ความเร็วโจมตี | +18% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/189:0:0" width="20" height="20" align="absmiddle" alt="วิสเปอริ่งสตรีม"> วิสเปอริ่งสตรีม | วิสเปอริ่งสตรีม | ความเร็วเคลื่อนที่ | +27% | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/270:0:0" width="20" height="20" align="absmiddle" alt="วิสเปอริ่งอิเวชั่น"> วิสเปอริ่งอิเวชั่น | วิสเปอริ่งอิเวชั่น | อัตราหลบหลีก | +17 | 300.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/188:0:0" width="20" height="20" align="absmiddle" alt="วิสเปอริ่งไฟเออร์"> วิสเปอริ่งไฟเออร์ | วิสเปอริ่งไฟเออร์ | คริติคอลดาเมจ | +19% | 300.0s |
 
 ---
 

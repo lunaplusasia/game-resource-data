@@ -16,34 +16,34 @@
 
 | สกิล | Aggro | Aggro/Mana | Attract | Mana | CD |
 |------|------:|-----------:|--------:|-----:|---:|
-| ฮันเตอร์สโมค | 0 | 0 | 0.0 | 40 | 8.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/177:0:0" width="20" height="20" align="absmiddle" alt="ฮันเตอร์สโมค"> ฮันเตอร์สโมค | 0 | 0 | 0.0 | 40 | 8.0s |
 
 ## Buff/Debuff Effects
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| ฮันเตอร์สโมค | ฮันเตอร์สโมค | ความแม่นยำ | -45 | 33.0s |
-| ฮันเตอร์สโมค | เอ็นวินอม | ความเร็วเคลื่อนที่ | -200% | 8.6s |
-| ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | พลังป้องกันกายภาพ | +23% | - |
-| ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์มเอ็กฟล็อบ | ไลท์อาร์มเมอร์ | +1 | - |
-| เซฟเฟอร์ | เซฟเฟอร์ | DEX | +180 | 1720.0s |
-| ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +14% | 840.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
-| รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
-| เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
-| แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
-| แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | ความเร็วโจมตี | +18% | - |
-| ไลท์อีเวชั่น | ไลท์อีเวชั่น | อัตราหลบหลีก | +20 | - |
-| พรีเดเตอร์ | พรีเดเตอร์ | คริติคอลดาเมจ | +20% | 1620.0s |
-| พรีเดเตอร์ | พรีเดเตอร์ | พลังป้องกันกายภาพ | -16% | 1620.0s |
-| ดีเทคโฮล | ดีเทคโฮล | โอกาสคริติคอลกายภาพ | +12% | 540.0s |
-| ไดอาบอลิคอินสติงท์ | ไดอาบอลิคอินสติงท์ | คริติคอลดาเมจ | +23% | - |
-| ไดอาบอลิคอินสติงท์ | ไดอาบอลิคอินสติ๊งท์ | โอกาสคริติคอลกายภาพ | +105 | - |
-| ไบลนด์ไซด์ | ไบลนด์ไซด์ | โอกาสคริติคอลกายภาพ | +4% | - |
-| ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | พลังป้องกันกายภาพ | +53% | - |
-| ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | อัตราหลบหลีก | +30% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/177:0:0" width="20" height="20" align="absmiddle" alt="ฮันเตอร์สโมค"> ฮันเตอร์สโมค | ฮันเตอร์สโมค | ความแม่นยำ | -45 | 33.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/177:0:0" width="20" height="20" align="absmiddle" alt="ฮันเตอร์สโมค"> ฮันเตอร์สโมค | เอ็นวินอม | ความเร็วเคลื่อนที่ | -200% | 8.6s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/11:0:0" width="20" height="20" align="absmiddle" alt="ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์"> ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | พลังป้องกันกายภาพ | +23% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/11:0:0" width="20" height="20" align="absmiddle" alt="ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์"> ไลท์อาร์เมอร์เอ็กเพอร์ไทซ์ | ไลท์อาร์มเอ็กฟล็อบ | ไลท์อาร์มเมอร์ | +1 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/32:0:0" width="20" height="20" align="absmiddle" alt="เซฟเฟอร์"> เซฟเฟอร์ | เซฟเฟอร์ | DEX | +180 | 1720.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/47:0:0" width="20" height="20" align="absmiddle" alt="ควิคมูฟ"> ควิคมูฟ | ควิคมูฟ | ความเร็วเคลื่อนที่ | +14% | 840.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | ความแม่นยำ | +21 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | อัตราหลบหลีก | +11 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ | รีฟอสไซต์ | พิสัยการโจมตี | +200 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | STR | +100 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค | แบรสซิ่งโร๊ก | พลังโจมตีกายภาพ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/36:0:0" width="20" height="20" align="absmiddle" alt="แด๊กเกอร์เทรนนิ่ง"> แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | พลังโจมตีกายภาพ | +26% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/36:0:0" width="20" height="20" align="absmiddle" alt="แด๊กเกอร์เทรนนิ่ง"> แด๊กเกอร์เทรนนิ่ง | แด๊กเกอร์เทรนนิ่ง | ความเร็วโจมตี | +18% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/38:0:0" width="20" height="20" align="absmiddle" alt="ไลท์อีเวชั่น"> ไลท์อีเวชั่น | ไลท์อีเวชั่น | อัตราหลบหลีก | +20 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/187:0:0" width="20" height="20" align="absmiddle" alt="พรีเดเตอร์"> พรีเดเตอร์ | พรีเดเตอร์ | คริติคอลดาเมจ | +20% | 1620.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/187:0:0" width="20" height="20" align="absmiddle" alt="พรีเดเตอร์"> พรีเดเตอร์ | พรีเดเตอร์ | พลังป้องกันกายภาพ | -16% | 1620.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/33:0:0" width="20" height="20" align="absmiddle" alt="ดีเทคโฮล"> ดีเทคโฮล | ดีเทคโฮล | โอกาสคริติคอลกายภาพ | +12% | 540.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/137:0:0" width="20" height="20" align="absmiddle" alt="ไดอาบอลิคอินสติงท์"> ไดอาบอลิคอินสติงท์ | ไดอาบอลิคอินสติงท์ | คริติคอลดาเมจ | +23% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/137:0:0" width="20" height="20" align="absmiddle" alt="ไดอาบอลิคอินสติงท์"> ไดอาบอลิคอินสติงท์ | ไดอาบอลิคอินสติ๊งท์ | โอกาสคริติคอลกายภาพ | +105 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/39:0:0" width="20" height="20" align="absmiddle" alt="ไบลนด์ไซด์"> ไบลนด์ไซด์ | ไบลนด์ไซด์ | โอกาสคริติคอลกายภาพ | +4% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/20:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เทรนนิ่ง"> ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | พลังป้องกันกายภาพ | +53% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/20:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์เทรนนิ่ง"> ชิลด์เทรนนิ่ง | ชิลด์เทรนนิ่ง | อัตราหลบหลีก | +30% | - |
 
 ---
 

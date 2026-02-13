@@ -16,53 +16,53 @@
 
 | สกิล | HPS | Heal | Mana | CD |
 |------|----:|-----:|-----:|---:|
-| ฟาสท์ฮีล | 0 | 0 | 247 | 900ms |
-| กรุ๊ปฮีล | 0 | 0 | 370 | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/64:0:0" width="20" height="20" align="absmiddle" alt="ฟาสท์ฮีล"> ฟาสท์ฮีล | 0 | 0 | 247 | 900ms |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/118:0:0" width="20" height="20" align="absmiddle" alt="กรุ๊ปฮีล"> กรุ๊ปฮีล | 0 | 0 | 370 | 10.0s |
 | เกรทฮีล | 0 | 0 | 272 | 12.5s |
-| แซคริไฟซ์ | 0 | 0 | 878 | 54.1s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/194:0:0" width="20" height="20" align="absmiddle" alt="แซคริไฟซ์"> แซคริไฟซ์ | 0 | 0 | 878 | 54.1s |
 
 ## Aggro/Taunt Skills
 
 | สกิล | Aggro | Aggro/Mana | Attract | Mana | CD |
 |------|------:|-----------:|--------:|-----:|---:|
-| อันเดดเทคเกอร์ | 0 | 0 | 0.0 | 2,090 | 5.0s |
-| เทิร์นอันเด๊ด | 0 | 0 | 0.0 | 2,154 | 4.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/206:0:0" width="20" height="20" align="absmiddle" alt="อันเดดเทคเกอร์"> อันเดดเทคเกอร์ | 0 | 0 | 0.0 | 2,090 | 5.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/193:0:0" width="20" height="20" align="absmiddle" alt="เทิร์นอันเด๊ด"> เทิร์นอันเด๊ด | 0 | 0 | 0.0 | 2,154 | 4.2s |
 
 ## Buff/Debuff Effects
 
 | สกิล | บัฟ | สถานะ | ค่า | ระยะเวลา |
 |------|-----|-------|----:|----------:|
-| เทิร์นอันเด๊ด | เทิร์นอันเด๊ด | ความแม่นยำ | -100% | 9.8s |
-| เอนฮานซ์^sMP | เอนฮานซ์^sMP | พลังมานาสูงสุด | +667 | - |
-| เอนฮานซ์^sMP | เพิ่มเอ็นฮานซ์^sMP | พลังมานาสูงสุด | +2% | - |
-| เอนฮานซ์^sMP | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +5 | - |
-| วิสดอม | วิสดอม | WIS | +70 | 1590.0s |
-| เบลสฮาร์ท | เบลสฮาร์ท | ดาเมจที่โจมตีเป็นพลังชีวิต | +4% | 1720.0s |
-| โฮลี่แบริเออร์ | โฮลี่แบริเออร์ | คงกระพัน | +0 | 9.6s |
-| วิสาร์ดลี่ | วิสาร์ดลี่ | พลังโจมตีเวทย์ | +15% | 1800.0s |
-| บีโฮลเดอร์ | บีโฮลเดอร์ | ตรวจจับ | +6 | 30.0s |
-| ชรูดสเพ็ล | ชรูดสเพ็ล | ความเร็วร่ายเวทย์ | +29% | 1800.0s |
-| อินเทนสิฝมานา | อินเทนสิฝมานา | ลดการใช้พลังมานา | -6% | 1800.0s |
-| จุดเยือกแข็งแห่งโอลฟีอุส | ยองออนของออร์ฟิอัส | INT | +175 | 1800.0s |
-| มานาออร่า | มานาโอร่า | โล่มานา | +87% | - |
-| เคียวร์พ้อยซั่น | เคียวร์พอยชั่น(Lv5) | Status_0 | - | 3.0s |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
-| เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
-| เมจิคแบริเออร์ | เมจิคแบริเออร์ | พลังป้องกันเวทย์ | +20% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/193:0:0" width="20" height="20" align="absmiddle" alt="เทิร์นอันเด๊ด"> เทิร์นอันเด๊ด | เทิร์นอันเด๊ด | ความแม่นยำ | -100% | 9.8s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | เอนฮานซ์^sMP | พลังมานาสูงสุด | +667 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | เพิ่มเอ็นฮานซ์^sMP | พลังมานาสูงสุด | +2% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP | ฟื้นคืนเอ็นฮานซ์^sMP | อัตราฟื้นคืนพลังมานา | +5 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/56:0:0" width="20" height="20" align="absmiddle" alt="วิสดอม"> วิสดอม | วิสดอม | WIS | +70 | 1590.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/57:0:0" width="20" height="20" align="absmiddle" alt="เบลสฮาร์ท"> เบลสฮาร์ท | เบลสฮาร์ท | ดาเมจที่โจมตีเป็นพลังชีวิต | +4% | 1720.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/68:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่แบริเออร์"> โฮลี่แบริเออร์ | โฮลี่แบริเออร์ | คงกระพัน | +0 | 9.6s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/76:0:0" width="20" height="20" align="absmiddle" alt="วิสาร์ดลี่"> วิสาร์ดลี่ | วิสาร์ดลี่ | พลังโจมตีเวทย์ | +15% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/25:0:0" width="20" height="20" align="absmiddle" alt="บีโฮลเดอร์"> บีโฮลเดอร์ | บีโฮลเดอร์ | ตรวจจับ | +6 | 30.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/205:0:0" width="20" height="20" align="absmiddle" alt="ชรูดสเพ็ล"> ชรูดสเพ็ล | ชรูดสเพ็ล | ความเร็วร่ายเวทย์ | +29% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/230:0:0" width="20" height="20" align="absmiddle" alt="อินเทนสิฝมานา"> อินเทนสิฝมานา | อินเทนสิฝมานา | ลดการใช้พลังมานา | -6% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/55:0:0" width="20" height="20" align="absmiddle" alt="จุดเยือกแข็งแห่งโอลฟีอุส"> จุดเยือกแข็งแห่งโอลฟีอุส | ยองออนของออร์ฟิอัส | INT | +175 | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="มานาออร่า"> มานาออร่า | มานาโอร่า | โล่มานา | +87% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/53:0:0" width="20" height="20" align="absmiddle" alt="เคียวร์พ้อยซั่น"> เคียวร์พ้อยซั่น | เคียวร์พอยชั่น(Lv5) | Status_0 | - | 3.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/78:0:0" width="20" height="20" align="absmiddle" alt="เมจิคแบริเออร์"> เมจิคแบริเออร์ | เมจิคแบริเออร์ | พลังป้องกันเวทย์ | +20% | - |
 | ดีไวน์ซอร์ด | ดีไวน์ซอร์ด | พลังโจมตีกายภาพ | -30% | 12.0s |
 | ดีไวน์ซอร์ด | ดีไวน์ซอร์ด | พลังโจมตีเวทย์ | -30% | 12.0s |
-| เอนฮานซ์^sHP | เอนฮานซ^sHP | พลังชีวิตสูงสุด | +1000 | - |
-| เอนฮานซ์^sHP | เพิ่มเอ็นฮานซ์^sHP | พลังชีวิตสูงสุด | +2% | - |
-| เอนฮานซ์^sHP | ฟื้นคืนเอ็นฮานซ์^sHP | อัตราฟื้นคืนพลังชีวิต | +8 | - |
-| โร๊บเอ็กซเพอร์ไทซ์ | โร๊บเอ็กซเพอร์ไทซ์ | พลังป้องกันกายภาพ | +15% | - |
-| มายนด์แบริเออร์ | มายนด์แบริเออร์ | พลังป้องกันเวทย์ | +21% | 1200.0s |
-| เบลสวินด์ | เบลสวินด์ | ความเร็วเคลื่อนที่ | +29% | 1200.0s |
-| เบลสมายนด์ | เบลสมายนด์ | ดาเมจที่โจมตีเป็นพลังมานา | +4% | 1200.0s |
-| เคียวร์เบลสเพอร์เฟคชั่น | เคียวร์ดอทเพอร์เฟคชั่น | Status_0 | - | 3.0s |
-| เคียวร์เคิร์ซเอ็กซ์เครชั่น | เคียวร์เคิร์ซเอ็กซ์เครชั่น | Status_0 | - | 3.0s |
-| ธันเดอร์เบรค | ไอซ์แอโรว์ | ความเร็วเคลื่อนที่ | -200% | 11.0s |
-| ธันเดอร์เบรค | ธันเดอร์เบรค | พลังป้องกันเวทย์ | -50% | 10.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/12:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sHP"> เอนฮานซ์^sHP | เอนฮานซ^sHP | พลังชีวิตสูงสุด | +1000 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/12:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sHP"> เอนฮานซ์^sHP | เพิ่มเอ็นฮานซ์^sHP | พลังชีวิตสูงสุด | +2% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/12:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์^sHP"> เอนฮานซ์^sHP | ฟื้นคืนเอ็นฮานซ์^sHP | อัตราฟื้นคืนพลังชีวิต | +8 | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/60:0:0" width="20" height="20" align="absmiddle" alt="โร๊บเอ็กซเพอร์ไทซ์"> โร๊บเอ็กซเพอร์ไทซ์ | โร๊บเอ็กซเพอร์ไทซ์ | พลังป้องกันกายภาพ | +15% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/58:0:0" width="20" height="20" align="absmiddle" alt="มายนด์แบริเออร์"> มายนด์แบริเออร์ | มายนด์แบริเออร์ | พลังป้องกันเวทย์ | +21% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/120:0:0" width="20" height="20" align="absmiddle" alt="เบลสวินด์"> เบลสวินด์ | เบลสวินด์ | ความเร็วเคลื่อนที่ | +29% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/67:0:0" width="20" height="20" align="absmiddle" alt="เบลสมายนด์"> เบลสมายนด์ | เบลสมายนด์ | ดาเมจที่โจมตีเป็นพลังมานา | +4% | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/70085:0:0" width="20" height="20" align="absmiddle" alt="เคียวร์เบลสเพอร์เฟคชั่น"> เคียวร์เบลสเพอร์เฟคชั่น | เคียวร์ดอทเพอร์เฟคชั่น | Status_0 | - | 3.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/70086:0:0" width="20" height="20" align="absmiddle" alt="เคียวร์เคิร์ซเอ็กซ์เครชั่น"> เคียวร์เคิร์ซเอ็กซ์เครชั่น | เคียวร์เคิร์ซเอ็กซ์เครชั่น | Status_0 | - | 3.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/197:0:0" width="20" height="20" align="absmiddle" alt="ธันเดอร์เบรค"> ธันเดอร์เบรค | ไอซ์แอโรว์ | ความเร็วเคลื่อนที่ | -200% | 11.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/197:0:0" width="20" height="20" align="absmiddle" alt="ธันเดอร์เบรค"> ธันเดอร์เบรค | ธันเดอร์เบรค | พลังป้องกันเวทย์ | -50% | 10.0s |
 
 ---
 

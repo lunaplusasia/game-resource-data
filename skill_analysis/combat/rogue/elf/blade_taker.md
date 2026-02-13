@@ -20,8 +20,8 @@
 
 | สกิล | ประเภท | ระยะเวลา | CD | อัตรา | AoE |
 |------|--------|----------:|---:|------:|----:|
-| ซัดเดินเรด | stun | 3.0s | 4.5s | 70% | - |
-| อิลลูชั่นแอทแทค | stun | 4.0s | 4.0s | 60% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/115:0:0" width="20" height="20" align="absmiddle" alt="ซัดเดินเรด"> ซัดเดินเรด | stun | 3.0s | 4.5s | 70% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/184:0:0" width="20" height="20" align="absmiddle" alt="อิลลูชั่นแอทแทค"> อิลลูชั่นแอทแทค | stun | 4.0s | 4.0s | 60% | - |
 
 ## CC Summary
 
@@ -33,7 +33,7 @@
 
 | # | สกิล | DPS | Contribution |
 |--:|-------|----:|------------:|
-| 1 | เดดลี่สไตรค์ | 1,381 | 100% |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/264:0:0" width="20" height="20" align="absmiddle" alt="เดดลี่สไตรค์"> เดดลี่สไตรค์ | 1,381 | 100% |
 
 ## Matchup
 

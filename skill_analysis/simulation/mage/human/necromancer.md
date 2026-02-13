@@ -17,10 +17,10 @@
 | สกิล | Aggro | Aggro/Mana | Attract | Mana | CD |
 |------|------:|-----------:|--------:|-----:|---:|
 | แองเจลิคเบลส | 0 | 0 | 0.0 | 600 | 60.0s |
-| เคิร์ซวีคเนส | 0 | 0 | 0.0 | 200 | 13.2s |
-| อีเวนนอม | 0 | 0 | 0.0 | 200 | 7.0s |
-| วีนอมคลาวด์ | 0 | 0 | 0.0 | 301 | 8.2s |
-| คอร์ปซ์เทค | 0 | 0 | 0.0 | 161 | 11.4s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/73:0:0" width="20" height="20" align="absmiddle" alt="เคิร์ซวีคเนส"> เคิร์ซวีคเนส | 0 | 0 | 0.0 | 200 | 13.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/74:0:0" width="20" height="20" align="absmiddle" alt="อีเวนนอม"> อีเวนนอม | 0 | 0 | 0.0 | 200 | 7.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/198:0:0" width="20" height="20" align="absmiddle" alt="วีนอมคลาวด์"> วีนอมคลาวด์ | 0 | 0 | 0.0 | 301 | 8.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="คอร์ปซ์เทค"> คอร์ปซ์เทค | 0 | 0 | 0.0 | 161 | 11.4s |
 
 ## Buff/Debuff Effects
 
@@ -28,25 +28,25 @@
 |------|-----|-------|----:|----------:|
 | แองเจลิคเบลส | แองเจลิคเบลส | พลังป้องกันเวทย์ | -75% | 30.0s |
 | แองเจลิคเบลส | แองเจลิคเบลส^2 | พลังป้องกันกายภาพ | -75% | 30.0s |
-| เคิร์ซวีคเนส | เคิร์ซวีคเนส | ค่าสแตททั้งหมด | -1000 | 54.5s |
-| อีเวนนอม | เอ็นวินอม | ความเร็วเคลื่อนที่ | -115% | 8.6s |
-| วีนอมคลาวด์ | วีนอร์มคลาวด์ | ความเร็วเคลื่อนที่ | -120% | 9.6s |
-| วีนอมคลาวด์ | วีนอร์มคลาวด์ | ความเร็วโจมตี | -125% | 9.6s |
-| วีนอมคลาวด์ | วีนอร์มคลาวด์ | ความเร็วร่ายเวทย์ | -60% | 9.6s |
-| คอร์ปซ์เทค | คอร์ปซ์เทค(Lv5) | ผู้ชนะจะได้รับสกิลอัตโนมัติ | +3206505 | 1200.0s |
-| ไวทัลเอ็กซ์โพลชั่น | ไวทัลเอ็กซ์โพลชั่น | พลังป้องกันกายภาพ | +100% | 5.0s |
-| ไวทัลเอ็กซ์โพลชั่น | ไวทัลเอ็กซ์โพลชั่น | พลังป้องกันเวทย์ | +100% | 5.0s |
-| อินเทลิเจนท์ | อินเทลิเจนท์ | INT | +60 | 1530.0s |
-| เดฟวิลอาร์มเมอร์ | เดฟวิลอาร์มเมอร์(Lv10) | พลังป้องกันกายภาพ | +21% | 900.0s |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
-| รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
-| เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
-| วิสาร์ดลี่ | วิสาร์ดลี่ | พลังโจมตีเวทย์ | +15% | 1800.0s |
-| มานาออร่า | มานาโอร่า | โล่มานา | +87% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/73:0:0" width="20" height="20" align="absmiddle" alt="เคิร์ซวีคเนส"> เคิร์ซวีคเนส | เคิร์ซวีคเนส | ค่าสแตททั้งหมด | -1000 | 54.5s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/74:0:0" width="20" height="20" align="absmiddle" alt="อีเวนนอม"> อีเวนนอม | เอ็นวินอม | ความเร็วเคลื่อนที่ | -115% | 8.6s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/198:0:0" width="20" height="20" align="absmiddle" alt="วีนอมคลาวด์"> วีนอมคลาวด์ | วีนอร์มคลาวด์ | ความเร็วเคลื่อนที่ | -120% | 9.6s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/198:0:0" width="20" height="20" align="absmiddle" alt="วีนอมคลาวด์"> วีนอมคลาวด์ | วีนอร์มคลาวด์ | ความเร็วโจมตี | -125% | 9.6s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/198:0:0" width="20" height="20" align="absmiddle" alt="วีนอมคลาวด์"> วีนอมคลาวด์ | วีนอร์มคลาวด์ | ความเร็วร่ายเวทย์ | -60% | 9.6s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="คอร์ปซ์เทค"> คอร์ปซ์เทค | คอร์ปซ์เทค(Lv5) | ผู้ชนะจะได้รับสกิลอัตโนมัติ | +3206505 | 1200.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/226:0:0" width="20" height="20" align="absmiddle" alt="ไวทัลเอ็กซ์โพลชั่น"> ไวทัลเอ็กซ์โพลชั่น | ไวทัลเอ็กซ์โพลชั่น | พลังป้องกันกายภาพ | +100% | 5.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/226:0:0" width="20" height="20" align="absmiddle" alt="ไวทัลเอ็กซ์โพลชั่น"> ไวทัลเอ็กซ์โพลชั่น | ไวทัลเอ็กซ์โพลชั่น | พลังป้องกันเวทย์ | +100% | 5.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/55:0:0" width="20" height="20" align="absmiddle" alt="อินเทลิเจนท์"> อินเทลิเจนท์ | อินเทลิเจนท์ | INT | +60 | 1530.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/22:0:0" width="20" height="20" align="absmiddle" alt="เดฟวิลอาร์มเมอร์"> เดฟวิลอาร์มเมอร์ | เดฟวิลอาร์มเมอร์(Lv10) | พลังป้องกันกายภาพ | +21% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | WIS | +100 | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม | รีฟอสวิสดอม | ความเร็วเคลื่อนที่ | +10% | 900.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก | เบลสซิ่งเมจิก | ความเร็วร่ายเวทย์ | +12% | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/76:0:0" width="20" height="20" align="absmiddle" alt="วิสาร์ดลี่"> วิสาร์ดลี่ | วิสาร์ดลี่ | พลังโจมตีเวทย์ | +15% | 1800.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="มานาออร่า"> มานาออร่า | มานาโอร่า | โล่มานา | +87% | - |
 | ดีไวน์ซอร์ด | ดีไวน์ซอร์ด | พลังโจมตีกายภาพ | -30% | 12.0s |
 | ดีไวน์ซอร์ด | ดีไวน์ซอร์ด | พลังโจมตีเวทย์ | -30% | 12.0s |
-| โซลสควิซ | ฟื้นฟู^sMP | ผู้ชนะจะได้รับสกิลอัตโนมัติ | +3502510 | 1080.0s |
-| โซลสควิซ | โซลสควิซ | ความแม่นยำ | -30% | 4.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="โซลสควิซ"> โซลสควิซ | ฟื้นฟู^sMP | ผู้ชนะจะได้รับสกิลอัตโนมัติ | +3502510 | 1080.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="โซลสควิซ"> โซลสควิซ | โซลสควิซ | ความแม่นยำ | -30% | 4.2s |
 
 ---
 
