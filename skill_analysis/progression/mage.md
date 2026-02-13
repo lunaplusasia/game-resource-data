@@ -9,7 +9,7 @@
 | 1 | โซลอาร์บิเตอร์ | Human | 54 | 14 | 11 | 20 | 22 | 27 |
 | 2 | โซลอาร์บิเตอร์ | Elf | 54 | 14 | 11 | 20 | 22 | 27 |
 | 3 | เนโครแมนเซอร์ | Human | 48 | 14 | 11 | 12 | 19 | 18 |
-| 4 | รูนิคมาสเตอร์ | Elf | 47 | 14 | 11 | 20 | 22 | 25 |
+| 4 | รูนมาสเตอร์ | Elf | 47 | 14 | 11 | 20 | 22 | 25 |
 | 5 | คาร์ดินัล | Human | 45 | 14 | 11 | 20 | 22 | 33 |
 | 6 | คาร์ดินัล | Elf | 45 | 14 | 11 | 20 | 22 | 33 |
 | 7 | แกรนด์มาสเตอร์ | Human | 36 | 14 | 12 | 15 | 20 | 14 |
@@ -20,7 +20,7 @@
 - **โซลอาร์บิเตอร์ (Human)**: Mage - Cleric - Priest - Bishop - Soul Arbiter
 - **โซลอาร์บิเตอร์ (Elf)**: Mage - Cleric - Priest - Bishop - Soul Arbiter
 - **เนโครแมนเซอร์ (Human)**: Mage - Cleric - Monk - Inquirer - Necromancer
-- **รูนิคมาสเตอร์ (Elf)**: Mage - Cleric - Priest - Elemental Master - Runic Master
+- **รูนมาสเตอร์ (Elf)**: Mage - Cleric - Priest - Elemental Master - Runic Master
 - **คาร์ดินัล (Human)**: Mage - Cleric - Priest - Bishop - Cardinal
 - **คาร์ดินัล (Elf)**: Mage - Cleric - Priest - Bishop - Cardinal
 - **แกรนด์มาสเตอร์ (Human)**: Mage - Wizard - Sorcerer - Warlock - Grand Master
