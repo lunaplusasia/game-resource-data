@@ -15,7 +15,7 @@
 
 ## ⚔️ รายการสกิล
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/54:0:0" width="32" height="32" align="absmiddle" alt="โฮลี่สไตรค์"> โฮลี่สไตรค์ (ID: 32007)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/54:0:0" width="32" height="32" align="absmiddle" alt="โฮลี่สไตรค์"> โฮลี่สไตรค์
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ไม่จำกัด
@@ -35,7 +35,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/64:0:0" width="32" height="32" align="absmiddle" alt="ฟาสท์ฮีล"> ฟาสท์ฮีล (ID: 32008)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/64:0:0" width="32" height="32" align="absmiddle" alt="ฟาสท์ฮีล"> ฟาสท์ฮีล
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ไม่จำกัด
@@ -56,7 +56,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/87:0:0" width="32" height="32" align="absmiddle" alt="รีเวิร์ส"> รีเวิร์ส (ID: 32019)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/87:0:0" width="32" height="32" align="absmiddle" alt="รีเวิร์ส"> รีเวิร์ส
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ไม่จำกัด
@@ -71,7 +71,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/51:0:0" width="32" height="32" align="absmiddle" alt="ฮีล"> ฮีล (ID: 32004)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/51:0:0" width="32" height="32" align="absmiddle" alt="ฮีล"> ฮีล
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ไม่จำกัด
@@ -91,7 +91,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/53:0:0" width="32" height="32" align="absmiddle" alt="เคียวร์พ้อยซั่น"> เคียวร์พ้อยซั่น (ID: 32006)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/53:0:0" width="32" height="32" align="absmiddle" alt="เคียวร์พ้อยซั่น"> เคียวร์พ้อยซั่น
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ไม่จำกัด
@@ -109,7 +109,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/118:0:0" width="32" height="32" align="absmiddle" alt="กรุ๊ปฮีล"> กรุ๊ปฮีล (ID: 32020)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/118:0:0" width="32" height="32" align="absmiddle" alt="กรุ๊ปฮีล"> กรุ๊ปฮีล
 
 - **หมวดหมู่**: 💥 โจมตีพื้นที่
 - **อาวุธ**: ไม่จำกัด
@@ -128,7 +128,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/66:0:0" width="32" height="32" align="absmiddle" alt="ดีไวน์จัดจ์เมนท์"> ดีไวน์จัดจ์เมนท์ (ID: 32009)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/66:0:0" width="32" height="32" align="absmiddle" alt="ดีไวน์จัดจ์เมนท์"> ดีไวน์จัดจ์เมนท์
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -148,7 +148,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/56:0:0" width="32" height="32" align="absmiddle" alt="วิสดอม"> วิสดอม (ID: 35002)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/56:0:0" width="32" height="32" align="absmiddle" alt="วิสดอม"> วิสดอม
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -165,7 +165,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/57:0:0" width="32" height="32" align="absmiddle" alt="เบลสฮาร์ท"> เบลสฮาร์ท (ID: 35003)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/57:0:0" width="32" height="32" align="absmiddle" alt="เบลสฮาร์ท"> เบลสฮาร์ท
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -184,7 +184,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/68:0:0" width="32" height="32" align="absmiddle" alt="โฮลี่แบริเออร์"> โฮลี่แบริเออร์ (ID: 35006)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/68:0:0" width="32" height="32" align="absmiddle" alt="โฮลี่แบริเออร์"> โฮลี่แบริเออร์
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -199,7 +199,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/76:0:0" width="32" height="32" align="absmiddle" alt="วิสาร์ดลี่"> วิสาร์ดลี่ (ID: 35007)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/76:0:0" width="32" height="32" align="absmiddle" alt="วิสาร์ดลี่"> วิสาร์ดลี่
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -214,7 +214,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/121:0:0" width="32" height="32" align="absmiddle" alt="ไมท์"> ไมท์ (ID: 35010)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/121:0:0" width="32" height="32" align="absmiddle" alt="ไมท์"> ไมท์
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -229,7 +229,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="32" height="32" align="absmiddle" alt="ชิลด์"> ชิลด์ (ID: 35011)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="32" height="32" align="absmiddle" alt="ชิลด์"> ชิลด์
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -244,7 +244,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/25:0:0" width="32" height="32" align="absmiddle" alt="บีโฮลเดอร์"> บีโฮลเดอร์ (ID: 35013)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/25:0:0" width="32" height="32" align="absmiddle" alt="บีโฮลเดอร์"> บีโฮลเดอร์
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -260,7 +260,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/205:0:0" width="32" height="32" align="absmiddle" alt="ชรูดสเพ็ล"> ชรูดสเพ็ล (ID: 35014)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/205:0:0" width="32" height="32" align="absmiddle" alt="ชรูดสเพ็ล"> ชรูดสเพ็ล
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -275,7 +275,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="32" height="32" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม (ID: 35031)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="32" height="32" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> รีอินฟอร์สวิสดอม
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -295,7 +295,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/193:0:0" width="32" height="32" align="absmiddle" alt="เทิร์นอันเด๊ด"> เทิร์นอันเด๊ด (ID: 32032)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/193:0:0" width="32" height="32" align="absmiddle" alt="เทิร์นอันเด๊ด"> เทิร์นอันเด๊ด
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -315,7 +315,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="32" height="32" align="absmiddle" alt="มานาออร่า"> มานาออร่า (ID: 35027)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="32" height="32" align="absmiddle" alt="มานาออร่า"> มานาออร่า
 
 - **หมวดหมู่**: 🔄 Toggle บัฟ
 - **อาวุธ**: ไม่จำกัด
@@ -332,7 +332,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="32" height="32" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก (ID: 35032)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="32" height="32" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก
 
 - **หมวดหมู่**: 🔄 Toggle บัฟ
 - **อาวุธ**: ไม่จำกัด
@@ -352,7 +352,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="32" height="32" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP (ID: 33005)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="32" height="32" align="absmiddle" alt="เอนฮานซ์^sMP"> เอนฮานซ์^sMP
 
 - **หมวดหมู่**: 📘 พาสซีฟ
 - **อาวุธ**: ไม่จำกัด
@@ -373,4 +373,4 @@
 
 ---
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.7.0 | Generated: 2026-02-13 20:04
+📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 | Generated: 2026-02-13 20:33

@@ -33,8 +33,8 @@
 
 ---
 
-**Skill Analysis:** v2.7.0 | **Patch:** v2.0.0
+**Skill Analysis:** v2.8.0 | **Patch:** v2.0.0
 
-*อัปเดตล่าสุด: 2026-02-13 20:04:57*
+*อัปเดตล่าสุด: 2026-02-13 20:33:02*
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.7.0
+📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0

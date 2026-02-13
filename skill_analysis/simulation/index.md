@@ -1,7 +1,7 @@
 # 📊 LUNA2 Skill Simulation Report
 
 > สร้างอัตโนมัติจาก `skill_simulator.py v1.1.0` + `generate_simulation_md.py v1.0.0`
-> อัพเดทล่าสุด: 2026-02-13 20:04
+> อัพเดทล่าสุด: 2026-02-13 20:33
 
 ## 📑 สารบัญ
 
@@ -191,4 +191,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.7.0 — Generated: 2026-02-13 20:04*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — Generated: 2026-02-13 20:33*

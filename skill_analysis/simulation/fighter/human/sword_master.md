@@ -1,7 +1,7 @@
 # ⚔️ ซอร์ดมาสเตอร์ (1155) — Skill Simulation
 
 > Human | Fighter | Tier 5 | 23 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-13 20:04
+> Simulator v1.1.0 | Generated: 2026-02-13 20:33
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -100,4 +100,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.7.0 — ซอร์ดมาสเตอร์ — 2026-02-13 20:04*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — ซอร์ดมาสเตอร์ — 2026-02-13 20:33*

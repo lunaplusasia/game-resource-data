@@ -111,4 +111,4 @@
 
 [← กลับไปหน้าสรุป](../../report_combat.md)
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.7.0 — Generated: 2026-02-13 20:04*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 — Generated: 2026-02-13 20:33*

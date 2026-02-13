@@ -15,7 +15,7 @@
 
 ## ⚔️ รายการสกิล
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/29:0:0" width="32" height="32" align="absmiddle" alt="พาวเวอร์ช๊อต"> พาวเวอร์ช๊อต (ID: 21003)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/29:0:0" width="32" height="32" align="absmiddle" alt="พาวเวอร์ช๊อต"> พาวเวอร์ช๊อต
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ครอสโบว์
@@ -34,7 +34,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/30:0:0" width="32" height="32" align="absmiddle" alt="นีดเดิ้ลช๊อต"> นีดเดิ้ลช๊อต (ID: 21004)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/30:0:0" width="32" height="32" align="absmiddle" alt="นีดเดิ้ลช๊อต"> นีดเดิ้ลช๊อต
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ครอสโบว์
@@ -53,7 +53,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/44:0:0" width="32" height="32" align="absmiddle" alt="ฮาร์มสตริง"> ฮาร์มสตริง (ID: 21007)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/44:0:0" width="32" height="32" align="absmiddle" alt="ฮาร์มสตริง"> ฮาร์มสตริง
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ครอสโบว์
@@ -74,7 +74,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/174:0:0" width="32" height="32" align="absmiddle" alt="แรพพิดแอโรว์"> แรพพิดแอโรว์ (ID: 21020)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/174:0:0" width="32" height="32" align="absmiddle" alt="แรพพิดแอโรว์"> แรพพิดแอโรว์
 
 - **หมวดหมู่**: ⚔️ โจมตีเป้าเดียว
 - **อาวุธ**: ครอสโบว์
@@ -94,7 +94,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/84:0:0" width="32" height="32" align="absmiddle" alt="เพียร์ซซิ่งช๊อต"> เพียร์ซซิ่งช๊อต (ID: 21011)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/84:0:0" width="32" height="32" align="absmiddle" alt="เพียร์ซซิ่งช๊อต"> เพียร์ซซิ่งช๊อต
 
 - **หมวดหมู่**: 💥 โจมตีพื้นที่
 - **อาวุธ**: ครอสโบว์
@@ -115,7 +115,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/106:0:0" width="32" height="32" align="absmiddle" alt="ไอซ์เรนนิ่ง"> ไอซ์เรนนิ่ง (ID: 21014)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/106:0:0" width="32" height="32" align="absmiddle" alt="ไอซ์เรนนิ่ง"> ไอซ์เรนนิ่ง
 
 - **หมวดหมู่**: 💥 โจมตีพื้นที่
 - **อาวุธ**: ครอสโบว์
@@ -136,7 +136,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/47:0:0" width="32" height="32" align="absmiddle" alt="ควิคมูฟ"> ควิคมูฟ (ID: 25004)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/47:0:0" width="32" height="32" align="absmiddle" alt="ควิคมูฟ"> ควิคมูฟ
 
 - **หมวดหมู่**: 🛡️ บัฟตัวเอง
 - **อาวุธ**: ไม่จำกัด
@@ -156,7 +156,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/32:0:0" width="32" height="32" align="absmiddle" alt="เซฟเฟอร์"> เซฟเฟอร์ (ID: 25001)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/32:0:0" width="32" height="32" align="absmiddle" alt="เซฟเฟอร์"> เซฟเฟอร์
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -174,7 +174,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/34:0:0" width="32" height="32" align="absmiddle" alt="เฟทอลทัช"> เฟทอลทัช (ID: 25003)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/34:0:0" width="32" height="32" align="absmiddle" alt="เฟทอลทัช"> เฟทอลทัช
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -191,7 +191,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="32" height="32" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์ (ID: 25019)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/435:0:0" width="32" height="32" align="absmiddle" alt="รีอินฟอร์สไซต์"> รีอินฟอร์สไซต์
 
 - **หมวดหมู่**: 👥 บัฟปาร์ตี้
 - **อาวุธ**: ไม่จำกัด
@@ -211,7 +211,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="32" height="32" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค (ID: 25020)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/436:0:0" width="32" height="32" align="absmiddle" alt="เบลสซิ่งโร๊ค"> เบลสซิ่งโร๊ค
 
 - **หมวดหมู่**: 🔄 Toggle บัฟ
 - **อาวุธ**: ไม่จำกัด
@@ -231,7 +231,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/35:0:0" width="32" height="32" align="absmiddle" alt="โบวเทรนนิ่ง"> โบวเทรนนิ่ง (ID: 23001)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/35:0:0" width="32" height="32" align="absmiddle" alt="โบวเทรนนิ่ง"> โบวเทรนนิ่ง
 
 - **หมวดหมู่**: 📘 พาสซีฟ
 - **อาวุธ**: ครอสโบว์
@@ -251,7 +251,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/39:0:0" width="32" height="32" align="absmiddle" alt="ไบลนด์ไซด์"> ไบลนด์ไซด์ (ID: 23004)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/39:0:0" width="32" height="32" align="absmiddle" alt="ไบลนด์ไซด์"> ไบลนด์ไซด์
 
 - **หมวดหมู่**: 📘 พาสซีฟ
 - **อาวุธ**: ไม่จำกัด
@@ -271,7 +271,7 @@
 
 ---
 
-### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/41:0:0" width="32" height="32" align="absmiddle" alt="ลองช๊อต"> ลองช๊อต (ID: 23006)
+### <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/41:0:0" width="32" height="32" align="absmiddle" alt="ลองช๊อต"> ลองช๊อต
 
 - **หมวดหมู่**: 📘 พาสซีฟ
 - **อาวุธ**: ครอสโบว์
@@ -290,4 +290,4 @@
 
 ---
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.7.0 | Generated: 2026-02-13 20:04
+📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.8.0 | Generated: 2026-02-13 20:33
