@@ -1,7 +1,7 @@
 # ⚔️ แม็กเนอร์ส (1256) — Skill Simulation
 
 > Elf | Fighter | Tier 5 | 20 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-14 21:38
+> Simulator v2.9.0 | Generated: 2026-02-14 21:53
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -88,4 +88,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0 — แม็กเนอร์ส — 2026-02-14 21:38*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0 — แม็กเนอร์ส — 2026-02-14 21:53*
