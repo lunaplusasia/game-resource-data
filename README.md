@@ -24,7 +24,7 @@
 |--------|--------|
 | สถานะ | ✅ พร้อมใช้งาน |
 | โฟลเดอร์ | `skill_analysis/` |
-| ไฟล์ทั้งหมด | 190 |
+| ไฟล์ทั้งหมด | 178 |
 
 **เนื้อหา:**
 
@@ -33,6 +33,7 @@
 - 🌳 **Progression** — 4 ไฟล์ (สกิลสะสม C1–C5, Ranking)
 - 📈 **Simulation** — 31 ไฟล์ (DPS/HPS, Gear Profiles, Self-Buff)
 - 📋 **Consolidated Reports** — 5 ไฟล์ (Overview, Class Guide, Balance, Combat)
+- 🤖 **AI Reviews** — 6 ไฟล์ (Inventory, Progression, Combat, Simulation, Balance, Overview)
 - 📄 **หน้าหลัก** — overview.md, balance.md, SUMMARY.md, README.md
 
 ---
@@ -41,26 +42,14 @@
 
 วิเคราะห์เชิงลึกโดย AI — อ่านตามลำดับ 01→06:
 
-| # | Model | หัวข้อ | Link |
-|---|-------|--------|------|
-| 01 | claude | Skill Inventory | [อ่าน](skill_analysis/reviews/claude/01_ai_review_skill_inventory.md) |
-| 02 | claude | Progression Analysis | [อ่าน](skill_analysis/reviews/claude/02_ai_review_skill_progression.md) |
-| 03 | claude | Combat Analysis | [อ่าน](skill_analysis/reviews/claude/03_ai_review_skill_combat.md) |
-| 04 | claude | Simulation Analysis | [อ่าน](skill_analysis/reviews/claude/04_ai_review_skill_simulation.md) |
-| 05 | claude | Balance Analysis | [อ่าน](skill_analysis/reviews/claude/05_ai_review_skill_balance.md) |
-| 06 | claude | Overview | [อ่าน](skill_analysis/reviews/claude/06_ai_review_skill_overview.md) |
-| 01 | gemini | Skill Inventory | [อ่าน](skill_analysis/reviews/gemini/01_ai_review_skill_inventory.md) |
-| 02 | gemini | Progression Analysis | [อ่าน](skill_analysis/reviews/gemini/02_ai_review_skill_progression.md) |
-| 03 | gemini | Combat Analysis | [อ่าน](skill_analysis/reviews/gemini/03_ai_review_skill_combat.md) |
-| 04 | gemini | Simulation Analysis | [อ่าน](skill_analysis/reviews/gemini/04_ai_review_skill_simulation.md) |
-| 05 | gemini | Balance Analysis | [อ่าน](skill_analysis/reviews/gemini/05_ai_review_skill_balance.md) |
-| 06 | gemini | Overview | [อ่าน](skill_analysis/reviews/gemini/06_ai_review_skill_overview.md) |
-| 01 | gpt | Skill Inventory | [อ่าน](skill_analysis/reviews/gpt/01_ai_review_skill_inventory.md) |
-| 02 | gpt | Progression Analysis | [อ่าน](skill_analysis/reviews/gpt/02_ai_review_skill_progression.md) |
-| 03 | gpt | Combat Analysis | [อ่าน](skill_analysis/reviews/gpt/03_ai_review_skill_combat.md) |
-| 04 | gpt | Simulation Analysis | [อ่าน](skill_analysis/reviews/gpt/04_ai_review_skill_simulation.md) |
-| 05 | gpt | Balance Analysis | [อ่าน](skill_analysis/reviews/gpt/05_ai_review_skill_balance.md) |
-| 06 | gpt | Overview | [อ่าน](skill_analysis/reviews/gpt/06_ai_review_skill_overview.md) |
+| # | หัวข้อ | Link |
+|---|--------|------|
+| 01 | Skill Inventory | [อ่าน](skill_analysis/reviews/01_ai_review_skill_inventory.md) |
+| 02 | Progression Analysis | [อ่าน](skill_analysis/reviews/02_ai_review_skill_progression.md) |
+| 03 | Combat Analysis | [อ่าน](skill_analysis/reviews/03_ai_review_skill_combat.md) |
+| 04 | Simulation Analysis | [อ่าน](skill_analysis/reviews/04_ai_review_skill_simulation.md) |
+| 05 | Balance Analysis | [อ่าน](skill_analysis/reviews/05_ai_review_skill_balance.md) |
+| 06 | Overview | [อ่าน](skill_analysis/reviews/06_ai_review_skill_overview.md) |
 
 ---
 
@@ -81,13 +70,13 @@
 | รายการ | จำนวน |
 |--------|------:|
 | Sections ที่พร้อมใช้งาน | 1 |
-| ไฟล์ Markdown ทั้งหมด | 190 |
-| AI Review Files | 18 |
+| ไฟล์ Markdown ทั้งหมด | 178 |
+| AI Review Files | 6 |
 
 ---
 
 **Skill Analysis:** v2.9.0 | **Patch:** v2.0.0
 
-*อัปเดตล่าสุด: 2026-02-14 20:33:25*
+*อัปเดตล่าสุด: 2026-02-14 21:38:48*
 
 📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0

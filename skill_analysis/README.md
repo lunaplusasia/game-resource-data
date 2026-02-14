@@ -18,7 +18,7 @@
 | 🗡️ **Combat Analysis** | DPS Rotation, CC Chain, Matchup 1v1, Role Classification | 33 หน้า |
 | 📈 **Simulation** | จำลอง DPS/HPS ด้วยสูตรจากเกมจริง — 3 ระดับเลเวล (75/105/150) | 31 หน้า |
 | 🌳 **Progression** | เส้นทางพัฒนาสกิล C1→C5 — power spike ที่แต่ละ tier | 4 หน้า |
-| 🤖 **AI Review** | วิเคราะห์เชิงลึกโดย AI — balance, combat, recommendations | 18 ไฟล์ |
+| 🤖 **AI Review** | วิเคราะห์เชิงลึกโดย AI — balance, combat, recommendations | 6 ไฟล์ |
 
 ---
 
@@ -42,12 +42,12 @@
 
 | # | หัวข้อ | เนื้อหาหลัก |
 |---|--------|-------------|
-| 01 | [claude](reviews/claude/01_ai_review_skill_inventory.md) / [gemini](reviews/gemini/01_ai_review_skill_inventory.md) / [gpt](reviews/gpt/01_ai_review_skill_inventory.md) | toolkit แต่ละอาชีพ, power, CD, CC |
-| 02 | [claude](reviews/claude/02_ai_review_skill_progression.md) / [gemini](reviews/gemini/02_ai_review_skill_progression.md) / [gpt](reviews/gpt/02_ai_review_skill_progression.md) | เส้นทางพัฒนา, power spike, สกิลใหม่ |
-| 03 | [claude](reviews/claude/03_ai_review_skill_combat.md) / [gemini](reviews/gemini/03_ai_review_skill_combat.md) / [gpt](reviews/gpt/03_ai_review_skill_combat.md) | DPS tier, burst damage, CC chain, matchup |
-| 04 | [claude](reviews/claude/04_ai_review_skill_simulation.md) / [gemini](reviews/gemini/04_ai_review_skill_simulation.md) / [gpt](reviews/gpt/04_ai_review_skill_simulation.md) | DPS ranking จากสูตรจริง, burst, heal, mana |
-| 05 | [claude](reviews/claude/05_ai_review_skill_balance.md) / [gemini](reviews/gemini/05_ai_review_skill_balance.md) / [gpt](reviews/gpt/05_ai_review_skill_balance.md) | ความสมดุล 7 มิติ, cross-path comparison |
-| 06 | [claude](reviews/claude/06_ai_review_skill_overview.md) / [gemini](reviews/gemini/06_ai_review_skill_overview.md) / [gpt](reviews/gpt/06_ai_review_skill_overview.md) | ภาพรวม + คำแนะนำสำหรับผู้เล่น |
+| 01 | [Skill Inventory](reviews/01_ai_review_skill_inventory.md) | toolkit แต่ละอาชีพ, power, CD, CC |
+| 02 | [Progression](reviews/02_ai_review_skill_progression.md) | เส้นทางพัฒนา, power spike, สกิลใหม่ |
+| 03 | [Combat](reviews/03_ai_review_skill_combat.md) | DPS tier, burst damage, CC chain, matchup |
+| 04 | [Simulation](reviews/04_ai_review_skill_simulation.md) | DPS ranking จากสูตรจริง, burst, heal, mana |
+| 05 | [Balance](reviews/05_ai_review_skill_balance.md) | ความสมดุล 7 มิติ, cross-path comparison |
+| 06 | [Overview](reviews/06_ai_review_skill_overview.md) | ภาพรวม + คำแนะนำสำหรับผู้เล่น |
 
 ---
 
