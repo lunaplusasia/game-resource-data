@@ -1,7 +1,7 @@
 # 🗡️ สไนเปอร์ (2251) — Skill Simulation
 
 > Elf | Rogue | Tier 5 | 18 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-14 19:41
+> Simulator v1.1.0 | Generated: 2026-02-14 20:19
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -87,4 +87,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0 — สไนเปอร์ — 2026-02-14 19:41*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0 — สไนเปอร์ — 2026-02-14 20:19*
