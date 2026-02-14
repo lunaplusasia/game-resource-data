@@ -22,6 +22,14 @@
 * [🤖 AI Review: Balance Analysis](reviews/claude/05_ai_review_skill_balance.md)
 * [🤖 AI Review: Overview](reviews/claude/06_ai_review_skill_overview.md)
 
+### 🤖 AI Reviews (gemini)
+* [🤖 AI Review: Skill Inventory](reviews/gemini/01_ai_review_skill_inventory.md)
+* [🤖 AI Review: Progression Analysis](reviews/gemini/02_ai_review_skill_progression.md)
+* [🤖 AI Review: Combat Analysis](reviews/gemini/03_ai_review_skill_combat.md)
+* [🤖 AI Review: Simulation Analysis](reviews/gemini/04_ai_review_skill_simulation.md)
+* [🤖 AI Review: Balance Analysis](reviews/gemini/05_ai_review_skill_balance.md)
+* [🤖 AI Review: Overview](reviews/gemini/06_ai_review_skill_overview.md)
+
 ### 🤖 AI Reviews (gpt)
 * [🤖 AI Review: Skill Inventory](reviews/gpt/01_ai_review_skill_inventory.md)
 * [🤖 AI Review: Progression Analysis](reviews/gpt/02_ai_review_skill_progression.md)
