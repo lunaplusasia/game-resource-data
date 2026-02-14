@@ -32,4 +32,4 @@
 
 ---
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0
+📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0

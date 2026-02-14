@@ -1,7 +1,7 @@
-# 🔮 รูนมาสเตอร์ (3254) — Skill Simulation
+# 🔮 รูนมาสเตอร์ (3255) — Skill Simulation
 
-> Elf | Mage | Tier 5 | 18 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-14 02:23
+> Elf | Mage | Tier 5 | 25 สกิล
+> Simulator v1.1.0 | Generated: 2026-02-14 19:41
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -11,21 +11,18 @@
 
 | ประเภท | จำนวน |
 |--------|------:|
-| ⚔️ โจมตีกายภาพ | 1 |
-| 🔮 โจมตีเวทย์ | 5 |
+| 🔮 โจมตีเวทย์ | 3 |
+| 💚 ฮีล | 1 |
 | 🛡️ ดึงดูด | 5 |
-| ✨ บัฟ/ยูทิลิตี้ | 7 |
+| ✨ บัฟ/ยูทิลิตี้ | 16 |
 
 ## 🏆 DPS Ranking
 
 | # | สกิล | DPS | ประเภท | กราฟ |
 |--:|------|----:|--------|------|
-| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/196:0:0" width="20" height="20" align="absmiddle" alt="มิทิเออร์"> **มิทิเออร์** (32035) | 4,321.6 | 🔮 โจมตีเวทย์ | `███████████████` |
-| 2 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="โซลสควิซ"> **โซลสควิซ** (32058) | 2,543.7 | 🔮 โจมตีเวทย์ | `████████░░░░░░░` |
-| 3 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/54:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สไตรค์"> **โฮลี่สไตรค์** (32007) | 2,016.2 | 🔮 โจมตีเวทย์ | `██████░░░░░░░░░` |
-| 4 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/103:0:0" width="20" height="20" align="absmiddle" alt="ไฟเออร์บลาสท์"> **ไฟเออร์บลาสท์** (32022) | 1,704.2 | 🔮 โจมตีเวทย์ | `█████░░░░░░░░░░` |
-| 5 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/226:0:0" width="20" height="20" align="absmiddle" alt="ไวทัลเอ็กซ์โพลชั่น"> **ไวทัลเอ็กซ์โพลชั่น** (32060) | 1,661.3 | 🔮 โจมตีเวทย์ | `█████░░░░░░░░░░` |
-| 6 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/113:0:0" width="20" height="20" align="absmiddle" alt="โบนสเปียร์"> **โบนสเปียร์** (32059) | 0.30 | ⚔️ โจมตีกายภาพ | `░░░░░░░░░░░░░░░` |
+| 1 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="ชิลบรีซ"> **ชิลบรีซ** (32012) | 1,987.7 | 🔮 โจมตีเวทย์ | `███████████████` |
+| 2 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/88:0:0" width="20" height="20" align="absmiddle" alt="วินด์สไปค์"> **วินด์สไปค์** (32018) | 1,343.4 | 🔮 โจมตีเวทย์ | `██████████░░░░░` |
+| 3 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/123:0:0" width="20" height="20" align="absmiddle" alt="บลิสซาร์ด"> **บลิสซาร์ด** (32023) | 1,220.5 | 🔮 โจมตีเวทย์ | `█████████░░░░░░` |
 
 ## 📋 รายละเอียดสกิล (End-Game Profile)
 
@@ -33,56 +30,78 @@
 
 | สกิล | Lv | ประเภท | DPS | AvgDmg | Crit% | CD(s) | AoE | Mana |
 |------|---:|--------|----:|-------:|------:|------:|:---:|-----:|
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/196:0:0" width="20" height="20" align="absmiddle" alt="มิทิเออร์"> **มิทิเออร์** (32035) | 20 | MAGIC | 4,321.6 | 108,041 | 52.4 | 8.1s | ✅ | 939.0 |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="โซลสควิซ"> **โซลสควิซ** (32058) | 10 | MAGIC | 2,543.7 | 17,043 | 52.4 | 6.7s | ❌ | 150.0 |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/54:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สไตรค์"> **ดีไวน์ซอร์ด** (32007) | 30 | MAGIC | 2,016.2 | 10,081 | 52.4 | 5.0s | ❌ | 600.0 |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/103:0:0" width="20" height="20" align="absmiddle" alt="ไฟเออร์บลาสท์"> **ไฟเออร์บลาสท์** (32022) | 30 | MAGIC | 1,704.2 | 11,588 | 52.4 | 6.8s | ✅ | 2256.0 |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/226:0:0" width="20" height="20" align="absmiddle" alt="ไวทัลเอ็กซ์โพลชั่น"> **ไวทัลเอ็กซ์โพลชั่น** (32060) | 10 | MAGIC | 1,661.3 | 20,932 | 52.4 | 12.6s | ✅ | 0.0 |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/113:0:0" width="20" height="20" align="absmiddle" alt="โบนสเปียร์"> **โบนสเปียร์** (32059) | 10 | PHYSIC | 0.30 | 1.10 | 10.9 | 3.5s | ❌ | 207.0 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="ชิลบรีซ"> **ชิลบรีซ** (32012) | 30 | MAGIC | 1,987.7 | 10,932 | 52.4 | 5.5s | ❌ | 300.0 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/88:0:0" width="20" height="20" align="absmiddle" alt="วินด์สไปค์"> **วินด์สไปค์** (32018) | 30 | MAGIC | 1,343.4 | 10,479 | 52.4 | 7.8s | ✅ | 529.0 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/123:0:0" width="20" height="20" align="absmiddle" alt="บลิสซาร์ด"> **บลิสซาร์ด** (32023) | 30 | MAGIC | 1,220.5 | 13,304 | 52.4 | 10.9s | ✅ | 1128.0 |
+
+### 💚 สกิลฮีล
+
+| สกิล | Lv | HPS | Heal/ครั้ง | Heal/Mana | CD(s) | AoE |
+|------|---:|----:|-----------:|----------:|------:|:---:|
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/118:0:0" width="20" height="20" align="absmiddle" alt="กรุ๊ปฮีล"> **กรุ๊ปฮีล** (32020) | 15 | 179.8 | 1,797.5 | 7.08 | 10.0s | ✅ |
 
 ### 🛡️ สกิลดึงดูด (Aggro/Taunt)
 
 | สกิล | Lv | Aggro Points | Aggro/Mana | CD(s) |
 |------|---:|-------------:|-----------:|------:|
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/65:0:0" width="20" height="20" align="absmiddle" alt="แองเจลิคทัช"> **แองเจลิคเบลส** (32010) | 30 | 0 | 0.00 | 60.0s |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/73:0:0" width="20" height="20" align="absmiddle" alt="เคิร์ซวีคเนส"> **เคิร์ซวีคเนส** (32014) | 20 | 0 | 0.00 | 13.2s |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/74:0:0" width="20" height="20" align="absmiddle" alt="อีเวนนอม"> **อีเวนนอม** (32015) | 20 | 0 | 0.00 | 7.0s |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/198:0:0" width="20" height="20" align="absmiddle" alt="วีนอมคลาวด์"> **วีนอมคลาวด์** (32037) | 30 | 0 | 0.00 | 8.2s |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/8:0:0" width="20" height="20" align="absmiddle" alt="คอร์ปซ์เทค"> **คอร์ปซ์เทค** (32063) | 5 | 0 | 0.00 | 11.4s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="รูนไซเลนซ์"> **รูนไซเลนซ์** (32061) | 5 | 0 | 0.00 | 8.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="ฮาร์ทเบรค"> **ฮาร์ทเบรค** (35028) | 5 | 0 | 0.00 | 30.0s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/86:0:0" width="20" height="20" align="absmiddle" alt="ดีไวน์โฮลด์"> **ดีไวน์โฮลด์** (32017) | 20 | 0 | 0.00 | 16.5s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/70087:0:0" width="20" height="20" align="absmiddle" alt="รูนสโตนเคิร์ส"> **รูนสโตนเคิร์ส** (32066) | 5 | 0 | 0.00 | 8.2s |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/70088:0:0" width="20" height="20" align="absmiddle" alt="รูนไควท์เท็น"> **รูนไควท์เท็น** (32067) | 5 | 0 | 0.00 | 8.2s |
 
 ### ⛓️ สกิล CC (Crowd Control)
 
 | สกิล | CC Type | Duration (base) | Duration (actual) | Reduction | Rate% |
 |------|---------|----------------:|------------------:|----------:|------:|
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/65:0:0" width="20" height="20" align="absmiddle" alt="แองเจลิคทัช"> แองเจลิคเบลส (32010) | นิ่งหลับ | 28.0s | 27.5s | -500ms | 95 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="รูนไซเลนซ์"> รูนไซเลนซ์ (32061) | นิ่งเงียบ | 58.0s | 56.5s | -1500ms | 95 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/86:0:0" width="20" height="20" align="absmiddle" alt="ดีไวน์โฮลด์"> ดีไวน์โฮลด์ (32017) | ตรึงกับที่ | 8.3s | 8.3s | +0ms | 90 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/70087:0:0" width="20" height="20" align="absmiddle" alt="รูนสโตนเคิร์ส"> รูนสโตนเคิร์ส (32066) | เป็นหิน | 11.6s | 10.1s | -1500ms | 95 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="ชิลบรีซ"> ชิลบรีซ (32012) | แช่แข็ง | 30.1s | 29.5s | -600ms | 100 |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/123:0:0" width="20" height="20" align="absmiddle" alt="บลิสซาร์ด"> บลิสซาร์ด (32023) | แช่แข็ง | 11.8s | 11.2s | -600ms | 100 |
 
 **CC Stat Penalties (จาก SkillScript):**
 
-- นิ่งหลับ: `evade` -100percent
+- เป็นหิน: `physic_defense` +50percent
+- เป็นหิน: `magic_defense` -50percent
+- เป็นหิน: `evade` -50percent
+- แช่แข็ง: `physic_defense` -5percent
+- แช่แข็ง: `magic_defense` +5percent
+- แช่แข็ง: `evade` -100percent
+- แช่แข็ง: `physic_defense` -5percent
+- แช่แข็ง: `magic_defense` +5percent
+- แช่แข็ง: `evade` -100percent
 
 ### 📜 SkillScript Effects
 
 | สกิล | Stat Bonuses | Buff Flags |
 |------|-------------|------------|
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/65:0:0" width="20" height="20" align="absmiddle" alt="แองเจลิคทัช"> แองเจลิคเบลส (32010) | evade -100percent | - |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/73:0:0" width="20" height="20" align="absmiddle" alt="เคิร์ซวีคเนส"> เคิร์ซวีคเนส (32014) | accuracy -10percent, evade -10percent, critical_rate -100percent, move_speed -50percent | - |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/74:0:0" width="20" height="20" align="absmiddle" alt="อีเวนนอม"> อีเวนนอม (32015) | vitality -25percent, move_speed -25percent | - |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/103:0:0" width="20" height="20" align="absmiddle" alt="ไฟเออร์บลาสท์"> ไฟเออร์บลาสท์ (32022) | move_speed -80percent | - |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/198:0:0" width="20" height="20" align="absmiddle" alt="วีนอมคลาวด์"> วีนอมคลาวด์ (32037) | vitality -25percent, move_speed -25percent | - |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก (35032) | move_speed +10percent | - |
 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="มานาออร่า"> มานาออร่า (35027) | move_speed +12percent | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งเมจิก"> เบลสซิ่งเมจิก (35032) | move_speed +10percent | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/70087:0:0" width="20" height="20" align="absmiddle" alt="รูนสโตนเคิร์ส"> รูนสโตนเคิร์ส (32066) | physic_defense +50percent, magic_defense -50percent, evade -50percent | move_stop |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="ชิลบรีซ"> ชิลบรีซ (32012) | physic_defense -5percent, magic_defense +5percent, evade -100percent | - |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/123:0:0" width="20" height="20" align="absmiddle" alt="บลิสซาร์ด"> บลิสซาร์ด (32023) | physic_defense -5percent, magic_defense +5percent, evade -100percent | - |
 
 ### ✨ สกิลบัฟ/ยูทิลิตี้
 
 | สกิล | Lv | Target | ประเภท |
 |------|---:|--------|--------|
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/75:0:0" width="20" height="20" align="absmiddle" alt="บลัดสตีม"> **บลัดสตีม** (32016) | 6 | Party | Skill |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/55:0:0" width="20" height="20" align="absmiddle" alt="อินเทลิเจนท์"> **อินเทลิเจนท์** (35001) | 6 | 4 | Skill |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/22:0:0" width="20" height="20" align="absmiddle" alt="เดฟวิลอาร์มเมอร์"> **เดฟวิลอาร์มเมอร์** (35024) | 10 | Party | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/87:0:0" width="20" height="20" align="absmiddle" alt="รีเวิร์ส"> **รีเวิร์ส** (32019) | 1 | Enemy | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/63:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์ MP"> **เอนฮานซ์ MP** (33005) | 20 | Self | Passive |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/56:0:0" width="20" height="20" align="absmiddle" alt="วิสดอม"> **วิสดอม** (35002) | 6 | 4 | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/57:0:0" width="20" height="20" align="absmiddle" alt="เบลสฮาร์ท"> **เบลสฮาร์ท** (35003) | 7 | 4 | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/121:0:0" width="20" height="20" align="absmiddle" alt="ไมท์"> **ไมท์** (35010) | 7 | 4 | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="ชิลด์"> **ชิลด์** (35011) | 7 | 4 | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/210:0:0" width="20" height="20" align="absmiddle" alt="พินพอยท์"> **พินพอยท์** (35019) | 5 | Party | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/211:0:0" width="20" height="20" align="absmiddle" alt="คิสออฟเดธ"> **คิสออฟเดธ** (35020) | 5 | Party | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/212:0:0" width="20" height="20" align="absmiddle" alt="เคล้าท์"> **เคล้าท์** (35021) | 5 | Party | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="มานาออร่า"> **มานาออร่า** (35027) | 7 | Party | Toggle |
 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/441:0:0" width="20" height="20" align="absmiddle" alt="รีอินฟอร์สวิสดอม"> **รีอินฟอร์สวิสดอม** (35031) | 10 | Party | Skill |
 | <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/442:0:0" width="20" height="20" align="absmiddle" alt="เบลสซิ่งเมจิก"> **เบลสซิ่งเมจิก** (35032) | 10 | Party | Toggle |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/76:0:0" width="20" height="20" align="absmiddle" alt="วิสาร์ดลี่"> **วิสาร์ดลี่** (35007) | 5 | Party | Skill |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/122:0:0" width="20" height="20" align="absmiddle" alt="มานาออร่า"> **มานาออร่า** (35027) | 9 | Party | Toggle |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/12:0:0" width="20" height="20" align="absmiddle" alt="เอนฮานซ์ HP"> **เอนฮานซ์ HP** (13005) | 20 | Self | Passive |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/78:0:0" width="20" height="20" align="absmiddle" alt="เมจิคแบริเออร์"> **เมจิคแบริเออร์** (33007) | 20 | Self | Passive |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/209:0:0" width="20" height="20" align="absmiddle" alt="แอทคิวท์เนส"> **แอทคิวท์เนส** (35018) | 4 | 4 | Skill |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/60:0:0" width="20" height="20" align="absmiddle" alt="โร๊บเอ็กซเพอร์ไทซ์"> **โร๊บเอ็กซเพอร์ไทซ์** (33002) | 20 | Self | Passive |
 
 ## 📈 Level Progression (Top 3 DPS)
 
@@ -90,10 +109,10 @@
 
 | สกิล | Mid (Lv.75) | End (Lv.105) | Max (Lv.150) | เพิ่ม% |
 |------|----------:|------------:|------------:|------:|
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/196:0:0" width="20" height="20" align="absmiddle" alt="มิทิเออร์"> มิทิเออร์ | 2,561.2 | 4,321.6 | 9,017.5 | +252% |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/98:0:0" width="20" height="20" align="absmiddle" alt="โซลสควิซ"> โซลสควิซ | 1,493.5 | 2,543.7 | 5,374.1 | +260% |
-| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/54:0:0" width="20" height="20" align="absmiddle" alt="โฮลี่สไตรค์"> โฮลี่สไตรค์ | 1,189.3 | 2,016.2 | 4,237.9 | +256% |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/71:0:0" width="20" height="20" align="absmiddle" alt="ชิลบรีซ"> ชิลบรีซ | 1,159.7 | 1,987.7 | 4,233.8 | +265% |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/88:0:0" width="20" height="20" align="absmiddle" alt="วินด์สไปค์"> วินด์สไปค์ | 783.3 | 1,343.4 | 2,864.4 | +266% |
+| <img src="https://cdn.lunaonline.asia/img/2d/skill/imageidx/123:0:0" width="20" height="20" align="absmiddle" alt="บลิสซาร์ด"> บลิสซาร์ด | 714.4 | 1,220.5 | 2,589.3 | +262% |
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — รูนมาสเตอร์ — 2026-02-14 02:23*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0 — รูนมาสเตอร์ — 2026-02-14 19:41*

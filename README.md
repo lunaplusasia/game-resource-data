@@ -24,16 +24,15 @@
 |--------|--------|
 | สถานะ | ✅ พร้อมใช้งาน |
 | โฟลเดอร์ | `skill_analysis/` |
-| ไฟล์ทั้งหมด | 180 |
+| ไฟล์ทั้งหมด | 178 |
 
 **เนื้อหา:**
 
 - ⚔️ **Skills** — 95 อาชีพ (Devil, Fighter, Mage, Rogue)
 - 🗡️ **Combat Analysis** — 33 ไฟล์ (CC Chain, DPS Rotation, Matchup)
 - 🌳 **Progression** — 4 ไฟล์ (สกิลสะสม C1–C5, Ranking)
-- 📈 **Simulation** — 33 ไฟล์ (DPS/HPS, Gear Profiles, Self-Buff)
+- 📈 **Simulation** — 31 ไฟล์ (DPS/HPS, Gear Profiles, Self-Buff)
 - 📋 **Consolidated Reports** — 5 ไฟล์ (Overview, Class Guide, Balance, Combat)
-- 🤖 **AI Reviews** — 6 ไฟล์ (Inventory, Progression, Combat, Simulation, Balance, Overview)
 - 📄 **หน้าหลัก** — overview.md, balance.md, SUMMARY.md, README.md
 
 ---
@@ -44,12 +43,12 @@
 
 | # | หัวข้อ | Link |
 |---|--------|------|
-| 01 | Skill Inventory | [อ่าน](skill_analysis/01_ai_review_skill_inventory.md) |
-| 02 | Progression Analysis | [อ่าน](skill_analysis/02_ai_review_skill_progression.md) |
-| 03 | Combat Analysis | [อ่าน](skill_analysis/03_ai_review_skill_combat.md) |
-| 04 | Simulation Analysis | [อ่าน](skill_analysis/04_ai_review_skill_simulation.md) |
-| 05 | Balance Analysis | [อ่าน](skill_analysis/05_ai_review_skill_balance.md) |
-| 06 | Overview | [อ่าน](skill_analysis/06_ai_review_skill_overview.md) |
+| 01 | Skill Inventory | [อ่าน](skill_analysis/reviews/claude/01_ai_review_skill_inventory.md) |
+| 02 | Progression Analysis | [อ่าน](skill_analysis/reviews/claude/02_ai_review_skill_progression.md) |
+| 03 | Combat Analysis | [อ่าน](skill_analysis/reviews/claude/03_ai_review_skill_combat.md) |
+| 04 | Simulation Analysis | [อ่าน](skill_analysis/reviews/claude/04_ai_review_skill_simulation.md) |
+| 05 | Balance Analysis | [อ่าน](skill_analysis/reviews/claude/05_ai_review_skill_balance.md) |
+| 06 | Overview | [อ่าน](skill_analysis/reviews/claude/06_ai_review_skill_overview.md) |
 
 ---
 
@@ -70,13 +69,13 @@
 | รายการ | จำนวน |
 |--------|------:|
 | Sections ที่พร้อมใช้งาน | 1 |
-| ไฟล์ Markdown ทั้งหมด | 180 |
+| ไฟล์ Markdown ทั้งหมด | 178 |
 | AI Review Files | 6 |
 
 ---
 
 **Skill Analysis:** v2.9.0 | **Patch:** v2.0.0
 
-*อัปเดตล่าสุด: 2026-02-14 02:23:27*
+*อัปเดตล่าสุด: 2026-02-14 19:41:02*
 
-📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0
+📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0

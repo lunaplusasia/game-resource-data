@@ -1,7 +1,7 @@
 # 🗡️ เบลดเทคเกอร์ (2153) — Skill Simulation
 
 > Human | Rogue | Tier 5 | 20 สกิล
-> Simulator v1.1.0 | Generated: 2026-02-14 02:23
+> Simulator v1.1.0 | Generated: 2026-02-14 19:41
 
 ## 🔷 Self-Buff Bonuses Applied
 
@@ -92,4 +92,4 @@
 
 ---
 
-*📌 **Luna Plus ASIA** | Patch v2.0.0 | Skill Analysis v2.9.0 — เบลดเทคเกอร์ — 2026-02-14 02:23*
+*📌 **Luna Plus ASIA** | Patch v2.0.0 ― Skill Analysis v2.9.0 — เบลดเทคเกอร์ — 2026-02-14 19:41*

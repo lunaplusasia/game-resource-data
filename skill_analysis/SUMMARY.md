@@ -14,12 +14,12 @@
 
 ## 🤖 AI Reviews
 
-* [🤖 AI Review: Skill Inventory](01_ai_review_skill_inventory.md)
-* [🤖 AI Review: Progression Analysis](02_ai_review_skill_progression.md)
-* [🤖 AI Review: Combat Analysis](03_ai_review_skill_combat.md)
-* [🤖 AI Review: Simulation Analysis](04_ai_review_skill_simulation.md)
-* [🤖 AI Review: Balance Analysis](05_ai_review_skill_balance.md)
-* [🤖 AI Review: Overview](06_ai_review_skill_overview.md)
+* [🤖 AI Review: Skill Inventory](reviews/claude/01_ai_review_skill_inventory.md)
+* [🤖 AI Review: Progression Analysis](reviews/claude/02_ai_review_skill_progression.md)
+* [🤖 AI Review: Combat Analysis](reviews/claude/03_ai_review_skill_combat.md)
+* [🤖 AI Review: Simulation Analysis](reviews/claude/04_ai_review_skill_simulation.md)
+* [🤖 AI Review: Balance Analysis](reviews/claude/05_ai_review_skill_balance.md)
+* [🤖 AI Review: Overview](reviews/claude/06_ai_review_skill_overview.md)
 
 ## Skills
 
@@ -190,7 +190,6 @@
 * ⚔️ Fighter
   * Elf
     * [Crusader](simulation/fighter/elf/class5_crusader.md)
-    * [Destroyer](simulation/fighter/elf/class5_destroyer.md)
     * [Magners](simulation/fighter/elf/class5_magners.md)
     * [Paladin](simulation/fighter/elf/class5_paladin.md)
     * [Panzer](simulation/fighter/elf/class5_panzer.md)
@@ -218,7 +217,6 @@
   * Elf
     * [Cardinal](simulation/mage/elf/class5_cardinal.md)
     * [Grand Master](simulation/mage/elf/class5_grand_master.md)
-    * [Necromancer](simulation/mage/elf/class5_necromancer.md)
     * [Runic Master](simulation/mage/elf/class5_runic_master.md)
     * [Soul Arbiter](simulation/mage/elf/class5_soul_arbiter.md)
   * Human
